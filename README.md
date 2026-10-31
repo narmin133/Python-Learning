@@ -44,3 +44,4 @@ Terminalda yazın:
 python report_az/main.py --mode incremental
 ```
 *(Nəticə dərhal `report_az/output/articles.csv` faylında yenilənəcək)*
+
