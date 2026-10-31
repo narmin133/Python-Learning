@@ -1,0 +1,33 @@
+{
+  "report_generated_at": "2026-10-30T16:06:23.190758",
+  "site": "https://report.az",
+  "statistics": {
+    "total_urls_discovered": 1311851,
+    "total_urls_scraped_successfully": 247,
+    "total_urls_failed": 0,
+    "total_pending": 1311615,
+    "total_categories": 44,
+    "total_images": 263,
+    "total_videos": 0,
+    "articles_without_date": 2,
+    "articles_incomplete": 2,
+    "success_rate_percent": 0.02
+  },
+  "date_range": {
+    "oldest_article": "2014-10-30T08:05:34",
+    "newest_article": "2026-10-30T16:06:45"
+  },
+  "database": {
+    "path": "output/report_az.db",
+    "size_bytes": 408408064,
+    "size_mb": 389.49
+  },
+  "output_files": {
+    "database": "output/report_az.db",
+    "articles_json": "output/articles.json",
+    "articles_jsonl": "output/articles.jsonl",
+    "articles_csv": "output/articles.csv",
+    "categories_json": "output/categories.json",
+    "failed_urls_csv": "output/failed_urls.csv"
+  }
+}

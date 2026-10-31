@@ -1,0 +1,398 @@
+[
+  {
+    "id": 42,
+    "name": "Ana sÉhifÉ",
+    "slug": "",
+    "url": "https://report.az/",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 20,
+    "name": "Analitika",
+    "slug": "analitika",
+    "url": "https://report.az/analitika",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 21,
+    "name": "Biznes",
+    "slug": "biznes-xeberleri",
+    "url": "https://report.az/biznes-xeberleri",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 4,
+    "name": "Business",
+    "slug": "business",
+    "url": "https://report.az/en/business",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 25,
+    "name": "CÉmiyyÉt",
+    "slug": "cemiyyet",
+    "url": "https://report.az/cemiyyet",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 28,
+    "name": "Daxili siyasÉt",
+    "slug": "daxili-siyaset",
+    "url": "https://report.az/daxili-siyaset",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 2,
+    "name": "DigÉr Ã¶lkÉlÉr",
+    "slug": "diger-olkeler",
+    "url": "https://report.az/diger-olkeler",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 26,
+    "name": "Domestic policy",
+    "slug": "domestic-politics",
+    "url": "https://report.az/en/domestic-politics",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 38,
+    "name": "DÃ¼nya",
+    "slug": "dunya-xeberleri",
+    "url": "https://report.az/dunya-xeberleri",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 43,
+    "name": "Ecology",
+    "slug": "ecology",
+    "url": "https://report.az/en/ecology",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 32,
+    "name": "Energetika",
+    "slug": "energetika",
+    "url": "https://report.az/energetika",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 40,
+    "name": "Energy",
+    "slug": "energy",
+    "url": "https://report.az/en/energy",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 49,
+    "name": "Finance",
+    "slug": "finance",
+    "url": "https://report.az/en/finance",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 30,
+    "name": "Futbol",
+    "slug": "futbol-xeberleri",
+    "url": "https://report.az/futbol-xeberleri",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 10,
+    "name": "HadisÉ",
+    "slug": "hadise",
+    "url": "https://report.az/hadise",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 44,
+    "name": "Infrastructure",
+    "slug": "infrastructure",
+    "url": "https://report.az/en/infrastructure",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 31,
+    "name": "Karabakh",
+    "slug": "karabakh",
+    "url": "https://report.az/en/karabakh",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 33,
+    "name": "MaliyyÉ",
+    "slug": "maliyye-xeberleri",
+    "url": "https://report.az/maliyye-xeberleri",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 8,
+    "name": "MaraqlÄ±",
+    "slug": "maraqli-melumatlar",
+    "url": "https://report.az/maraqli-melumatlar",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 1,
+    "name": "Military",
+    "slug": "military",
+    "url": "https://report.az/en/military",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 16,
+    "name": "Milli MÉclis",
+    "slug": "milli-meclis",
+    "url": "https://report.az/milli-meclis",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 39,
+    "name": "Multimedia",
+    "slug": "multimedia",
+    "url": "https://report.az/multimedia",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 50,
+    "name": "MÉdÉniyyÉt",
+    "slug": "medeniyyet-xeberleri",
+    "url": "https://report.az/medeniyyet-xeberleri",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 14,
+    "name": "Other countries",
+    "slug": "other-countries",
+    "url": "https://report.az/en/other-countries",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 47,
+    "name": "QarabaÄ",
+    "slug": "qarabag",
+    "url": "https://report.az/qarabag",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 46,
+    "name": "Region",
+    "slug": "region",
+    "url": "https://report.az/en/region",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 5,
+    "name": "SiyasÉt",
+    "slug": "siyasi-xeberler",
+    "url": "https://report.az/siyasi-xeberler",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 9,
+    "name": "Son xÉbÉrlÉr",
+    "slug": "son-xeberler",
+    "url": "https://report.az/son-xeberler",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 18,
+    "name": "SÉnaye",
+    "slug": "senaye",
+    "url": "https://report.az/senaye",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 15,
+    "name": "Tourism",
+    "slug": "tourism",
+    "url": "https://report.az/en/tourism",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 13,
+    "name": "UAH - 0.038",
+    "slug": "valyuta",
+    "url": "https://report.az/valyuta",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 45,
+    "name": "Xarici siyasÉt",
+    "slug": "xarici-siyaset",
+    "url": "https://report.az/xarici-siyaset",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 12,
+    "name": "YENÄ°\nLONGREAD",
+    "slug": "longread",
+    "url": "https://report.az/longread",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 48,
+    "name": "Ä°dman",
+    "slug": "idman-xeberleri",
+    "url": "https://report.az/idman-xeberleri",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 34,
+    "name": "Ä°nfrastruktur",
+    "slug": "infrastruktur",
+    "url": "https://report.az/infrastruktur",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 37,
+    "name": "Ä°qtisadiyyat",
+    "slug": "iqtisadiyyat-xeberleri",
+    "url": "https://report.az/iqtisadiyyat-xeberleri",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 11,
+    "name": "ÐÐ½ÐµÑÐ½ÑÑ Ð¿Ð¾Ð»Ð¸ÑÐ¸ÐºÐ°",
+    "slug": "vneshnyaya-politika",
+    "url": "https://report.az/ru/vneshnyaya-politika",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 6,
+    "name": "ÐÐ½ÑÑÑÐµÐ½Ð½ÑÑ Ð¿Ð¾Ð»Ð¸ÑÐ¸ÐºÐ°",
+    "slug": "vnutrennyaya-politika",
+    "url": "https://report.az/ru/vnutrennyaya-politika",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 3,
+    "name": "ÐÑÑÐ³Ð¸Ðµ ÑÑÑÐ°Ð½Ñ",
+    "slug": "drugie-strany",
+    "url": "https://report.az/ru/drugie-strany",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 22,
+    "name": "ÐÐ½ÑÑÐ°ÑÑÑÑÐºÑÑÑÐ°",
+    "slug": "infrastruktura",
+    "url": "https://report.az/ru/infrastruktura",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 41,
+    "name": "ÐÐ°ÑÐ°Ð±Ð°Ñ",
+    "slug": "karabakh",
+    "url": "https://report.az/ru/karabakh",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 23,
+    "name": "ÐÐ°ÑÐºÐ° Ð¸ Ð¾Ð±ÑÐ°Ð·Ð¾Ð²Ð°Ð½Ð¸Ðµ",
+    "slug": "nauka-i-obrazovanie",
+    "url": "https://report.az/ru/nauka-i-obrazovanie",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 7,
+    "name": "ÐÑÐ¾Ð¸ÑÑÐµÑÑÐ²Ð¸Ñ",
+    "slug": "proisshestviya",
+    "url": "https://report.az/ru/proisshestviya",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  },
+  {
+    "id": 36,
+    "name": "Ð¨Ð¾Ñ-Ð±Ð¸Ð·Ð½ÐµÑ",
+    "slug": "shou-biznes",
+    "url": "https://report.az/ru/shou-biznes",
+    "parent_id": null,
+    "parent_name": null,
+    "created_at": "2026-10-30 11:18:55"
+  }
+]

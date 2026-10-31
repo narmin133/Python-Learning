@@ -3,6 +3,7 @@
 # ============================================================
 
 import sys
+import os
 import re
 import time
 import requests
@@ -13,6 +14,7 @@ from openpyxl.styles import Font, PatternFill, Alignment
 
 # Terminalda Azərbaycan hərfləri xəta verməsin
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+os.chdir(os.path.dirname(os.path.abspath(__file__))) # Həmişə apa_az qovluğunda işləsin
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36'
