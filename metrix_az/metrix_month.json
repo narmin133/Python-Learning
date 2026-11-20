@@ -1,1802 +1,2402 @@
 [
     {
         "title": "Bakıda hava Həftəlik - Hava Day.Az",
-        "views": 563501,
+        "views": 631216,
         "link": "https://weather.day.az/az/city/100587084/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Bakıda hava Sabah - Hava Day.Az",
-        "views": 259183,
-        "link": "https://weather.day.az/az/city/100587084/tomorrow.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Bakıda hava Bugün - Hava Day.Az",
-        "views": 257346,
+        "views": 288319,
         "link": "https://weather.day.az/az/city/100587084/today.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": null,
-        "views": 91850,
+        "views": 287999,
+        "link": "https://weather.day.az/az/city/100587084/tomorrow.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Погода в Баку На неделю - Погода Day.Az",
+        "views": 104016,
         "link": "https://weather.day.az/city/100587084/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Oxu.Az - Son Xəbərlər, 24/7 Azərbaycan və Dünya xəbərləri",
-        "views": 68642,
+        "views": 81499,
         "link": "https://oxu.az/page/2",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "阿新社-阿塞拜疆国家新闻社",
-        "views": 67188,
-        "link": "https://azertag.az/chn/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Новости Азербайджана от Oxu.Az | Главные события Баку и мира",
-        "views": 64969,
+        "views": 75237,
         "link": "https://oxu.az/ru/page/2",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": null,
-        "views": 59252,
+        "title": "阿新社-阿塞拜疆国家新闻社",
+        "views": 72704,
+        "link": "https://azertag.az/chn/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Sumqayıtda hava Həftəlik - Hava Day.Az",
+        "views": 66672,
         "link": "https://weather.day.az/az/city/100584923/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": null,
-        "views": 53524,
+        "title": "Həftəlik hava proqnozu Bakıda və Azərbaycanda. Bakı üçün həftəlik ətraflı hava proqnozu - WEATHER.DAY.AZ",
+        "views": 59942,
         "link": "https://weather.day.az/az/locations/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Axsam.az",
+        "views": 57111,
+        "link": "https://axsam.az/xeberler/?&sehife=1",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "İngiltərənin etno-mədəni diaqnostikası ",
         "views": 50278,
         "link": "https://crossmedia.az/az/article/114577",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Rusiya Türk Dövlətləri Təşkilatına daxil olsa nə dəyişər?  - TƏHLİL",
         "views": 49787,
         "link": "https://crossmedia.az/az/article/115036",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Axsam.az",
-        "views": 48463,
-        "link": "https://axsam.az/xeberler/?&sehife=1",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "\"20 Yanvar\" və \"Şamaxinka\" ətrafında bəzi marşrutlar dayanacaq məntəqələrindən çıxarılır",
-        "views": 43382,
-        "link": "https://report.az/infrastruktur/20-yanvar-ve-samaxinka-etrafinda-bezi-marsrutlar-dayanacaq-menteqelerinden-cixarilir",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "“Bakı Atatürk Liseyi”ndə cavabsız suallar: Samir Balakişiyev hansı meyarlarla vəzifəyə təyin olunub?",
-        "views": 41413,
-        "link": "https://crossmedia.az/az/article/114302",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Погода в Баку Завтра - Погода Day.Az",
-        "views": 40154,
-        "link": "https://weather.day.az/city/100587084/tomorrow.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": null,
-        "views": 40040,
-        "link": "https://weather.day.az/city/100587084/today.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Oxu.Az - Son Xəbərlər, 24/7 Azərbaycan və Dünya xəbərləri",
-        "views": 39446,
+        "views": 47013,
         "link": "https://oxu.az/page/3",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Latest News in Azerbaijan and the World | Report.az",
-        "views": 38187,
+        "views": 45645,
         "link": "https://report.az/en/latest-news",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Погода в Баку Сегодня - Погода Day.Az",
+        "views": 45632,
+        "link": "https://weather.day.az/city/100587084/today.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Ceffri Epşteyn: Maliyyə karyerasından cinsi istismar işinə qədər gedən yol",
+        "views": 45526,
+        "link": "https://crossmedia.az/az/article/118841",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Погода в Баку Завтра - Погода Day.Az",
+        "views": 45278,
+        "link": "https://weather.day.az/city/100587084/tomorrow.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": null,
+        "views": 44333,
+        "link": "https://ru.apa.az/all-news",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "\"20 Yanvar\" və \"Şamaxinka\" ətrafında bəzi marşrutlar dayanacaq məntəqələrindən çıxarılır",
+        "views": 43504,
+        "link": "https://report.az/infrastruktur/20-yanvar-ve-samaxinka-etrafinda-bezi-marsrutlar-dayanacaq-menteqelerinden-cixarilir",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "“Bakı Atatürk Liseyi”ndə cavabsız suallar: Samir Balakişiyev hansı meyarlarla vəzifəyə təyin olunub?",
+        "views": 41416,
+        "link": "https://crossmedia.az/az/article/114302",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "40 silahlı qoçu ilə gəzən bakılı kim idi? - Bakı qoçularının sirli və ziddiyyətli tarixi",
-        "views": 38031,
+        "views": 40584,
         "link": "https://crossmedia.az/az/article/118692",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Sonuncu rus imperatorunun sərvəti və aqibəti ",
-        "views": 37074,
+        "views": 37075,
         "link": "https://crossmedia.az/az/article/117545",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "APA.AZ- Все новости ",
-        "views": 36559,
-        "link": "https://ru.apa.az/all-news",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Nazir məktəblərlə bağlı ƏMR İMZALADI: Dəyişiklik EDİLDİ",
-        "views": 36457,
+        "views": 36470,
         "link": "https://sonxeber.az/408965/nazir-mekteblerle-bagli-emr-imzaladi-deyisiklik-edildi",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "  Qaz limiti ilə bağlı ŞAD XƏBƏR - Sərfiyyat minimuma enəcək  ",
-        "views": 31691,
-        "link": "https://yenisabah.az/qaz-limiti-ile-bagli-sad-xeber-serfiyyat-minimuma-enecek",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Bir araya gəlmələrinin səbəbini açıqladı - Video",
-        "views": 30657,
-        "link": "https://axsam.az/news/202188-bir-araya-gelmelerinin-sebebini-aciqladi-video",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Sumqayıtda hava Bugün - Hava Day.Az",
-        "views": 29824,
-        "link": "https://weather.day.az/az/city/100584923/today.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Ulduz falı — Bizim Yol",
-        "views": 29522,
+        "views": 35615,
         "link": "https://bizimyol.info/aze/category/burcler",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Sumqayıtda hava Bugün - Hava Day.Az",
+        "views": 33554,
+        "link": "https://weather.day.az/az/city/100584923/today.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "XXI əsrin ən böyük kəşfi: Canlı olmayan maddələrdən hüceyrələr hazırlanır",
+        "views": 31884,
+        "link": "https://crossmedia.az/az/article/118927",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "  Qaz limiti ilə bağlı ŞAD XƏBƏR - Sərfiyyat minimuma enəcək  ",
+        "views": 31722,
+        "link": "https://yenisabah.az/qaz-limiti-ile-bagli-sad-xeber-serfiyyat-minimuma-enecek",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": null,
+        "views": 31455,
+        "link": "https://az.trend.az/latest/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Sumqayıtda hava Sabah - Hava Day.Az",
+        "views": 31402,
+        "link": "https://weather.day.az/az/city/100584923/tomorrow.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Bir araya gəlmələrinin səbəbini açıqladı - Video",
+        "views": 30821,
+        "link": "https://axsam.az/news/202188-bir-araya-gelmelerinin-sebebini-aciqladi-video",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "bürclər — Bizim Yol",
+        "views": 30402,
+        "link": "https://bizimyol.info/aze/tags/burcler",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "İdman xəbərləri | Report.az",
+        "views": 29892,
+        "link": "https://report.az/idman-xeberleri",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Azərbaycanda inək və toyuqlarla bağlı yeni qərar – Məqsəd bu imiş",
-        "views": 29176,
+        "views": 29557,
         "link": "https://www.bakupost.az/azerbaycanda-inek-ve-toyuqlarla-bagli-yeni-qerar-meqsed-bu-imis",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "DİM bu imtahanı ləğv etdi – Ödənişlər geri qaytarılacaq",
+        "views": 29285,
+        "link": "https://muallim.edu.az/dim-bu-imtahani-legv-etdi-odenisler-geri-qaytarilacaq",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Oxu.Az - Son Xəbərlər, 24/7 Azərbaycan və Dünya xəbərləri",
+        "views": 29029,
+        "link": "https://oxu.az/page/4",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Modernləşmə, iqtisadi təzyiqlər və gender münasibətlərinin dəyişməsi fonunda Azərbaycanda nikah böhranı ",
         "views": 28925,
         "link": "https://crossmedia.az/az/article/115532",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Güclü ehtiyatlar fonunda borclanmanın qiyməti ",
+        "views": 28670,
+        "link": "https://crossmedia.az/az/article/119302",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Sürücülük vəsiqəsi ilə bağlı QAYDA DƏYİŞİR",
-        "views": 28326,
+        "views": 28338,
         "link": "https://olke.az/olke/486966/suruculuk-vesiqesi-ile-bali-qayda-deyisir/",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": null,
-        "views": 28048,
-        "link": "https://weather.day.az/az/city/100584923/tomorrow.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Çin bunu da etdi — Video",
-        "views": 27702,
+        "views": 28196,
         "link": "https://qafqazinfo.az/news/detail/cin-bunu-da-etdi-video-528580",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Nə kərpic, nə də sement: evlər 5 günə tikilir",
-        "views": 26992,
-        "link": "https://metbuat.az/news/1566165/ne-kerpic-ne-de-sement.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "“Vicdan haqqı”nın aktyorunun əkizləri dünyaya gəldi - (Foto)",
-        "views": 26747,
-        "link": "https://news.milli.az/showbiz/1350752.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "PENSİYA VƏ SOSİAL MÜAVİNƏTLƏR NEÇƏ FAİZ ARTACAQ? - Gözləntilər AÇIQLANDI",
-        "views": 26591,
-        "link": "https://azpolitika.info/?p=845709",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": null,
-        "views": 26275,
-        "link": "https://az.trend.az/latest/",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "14 metrlik nəhəng maşını hər kəsi heyrətləndirdi — İkimərtəbəli ev boydadır - Video",
-        "views": 26095,
-        "link": "https://qafqazinfo.az/news/detail/14-metrlik-neheng-masini-her-kesi-heyretlendirdi-ikimertebeli-ev-boydadir-video-528044",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "\"Rafael Ağayevə heykəl qoymaq olmaz, çünki...\" - \"Qara Brilliant\"la bağlı fərqli təklif",
-        "views": 25944,
-        "link": "https://azpolitika.info/?p=846543",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "bürclər — Bizim Yol",
-        "views": 25506,
-        "link": "https://bizimyol.info/aze/tags/burcler",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "İlham Əliyevin Ankara qərarı: Türk birliyinə sadiqlik və milli maraqların toxunulmazlığı",
-        "views": 25443,
-        "link": "https://crossmedia.az/az/article/114549",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "İdman xəbərləri | Report.az",
-        "views": 25344,
-        "link": "https://report.az/idman-xeberleri",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Азербайджанские мусульмане осудили мероприятие, проведенное в Голубой мечети в Иреване",
-        "views": 25064,
-        "link": "https://azertag.az/ru/xeber/azerbaidzhanskie_musulmane_osudili_meropriyatie_provedennoe_v_goluboi_mecheti_v_irevane-4505586",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Pensiyalar bu tarixdə ödəniləcək",
-        "views": 25039,
-        "link": "https://www.bakupost.az/pensiyalar-bu-tarixde-odenilecek-2026-11-03-12-20-29",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Qubada hava Həftəlik - Hava Day.Az",
-        "views": 24872,
-        "link": "https://weather.day.az/az/city/100585221/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Gəncədə hava Həftəlik - Hava Day.Az",
-        "views": 24578,
+        "views": 28020,
         "link": "https://weather.day.az/az/city/100586523/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Qubada hava Həftəlik - Hava Day.Az",
+        "views": 27677,
+        "link": "https://weather.day.az/az/city/100585221/week.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Nə kərpic, nə də sement: evlər 5 günə tikilir",
+        "views": 27000,
+        "link": "https://metbuat.az/news/1566165/ne-kerpic-ne-de-sement.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "“Vicdan haqqı”nın aktyorunun əkizləri dünyaya gəldi - (Foto)",
+        "views": 26796,
+        "link": "https://news.milli.az/showbiz/1350752.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "PENSİYA VƏ SOSİAL MÜAVİNƏTLƏR NEÇƏ FAİZ ARTACAQ? - Gözləntilər AÇIQLANDI",
+        "views": 26607,
+        "link": "https://azpolitika.info/?p=845709",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "\"RAFAEL AĞAYEVƏ HEYKƏL QOYMAQ OLMAZ, ÇÜNKİ...\" - \"Qara Brilliant\"la bağlı fərqli təklif",
+        "views": 26434,
+        "link": "https://azpolitika.info/?p=846543",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "14 metrlik nəhəng maşını hər kəsi heyrətləndirdi — İkimərtəbəli ev boydadır - Video",
+        "views": 26149,
+        "link": "https://qafqazinfo.az/news/detail/14-metrlik-neheng-masini-her-kesi-heyretlendirdi-ikimertebeli-ev-boydadir-video-528044",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "23 yaşlı Gülarənin qətli ilə bağlı yeni detallar",
+        "views": 25872,
+        "link": "https://oxu.az/kriminal/23-yasli-gularenin-qetli-ile-bagli-yeni-detallar",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "İlham Əliyevin Ankara qərarı: Türk birliyinə sadiqlik və milli maraqların toxunulmazlığı",
+        "views": 25444,
+        "link": "https://crossmedia.az/az/article/114549",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Pensiyalar bu tarixdə ödəniləcək",
+        "views": 25161,
+        "link": "https://www.bakupost.az/pensiyalar-bu-tarixde-odenilecek-2026-11-03-12-20-29",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Азербайджанские мусульмане осудили мероприятие, проведенное в Голубой мечети в Иреване",
+        "views": 25106,
+        "link": "https://azertag.az/ru/xeber/azerbaidzhanskie_musulmane_osudili_meropriyatie_provedennoe_v_goluboi_mecheti_v_irevane-4505586",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Error 404 - Yeni Sabah",
-        "views": 24396,
+        "views": 24398,
         "link": "https://yenisabah.az/mehdiyevin-cevrilis-planini-rusiyaya-o-catdirirmis-foto",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Oxu.Az - Son Xəbərlər, 24/7 Azərbaycan və Dünya xəbərləri",
-        "views": 24362,
-        "link": "https://oxu.az/page/4",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "  Kimin evində varsa, bəxti gətirdi  ",
-        "views": 24126,
-        "link": "https://yenisabah.az/kimin-evinde-varsa-bexti-getirdi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Milyonluq mülkləri ilə gündəmə gələn sabiq deputat daha bir vəzifəsini itirdi - Unikal.az",
-        "views": 24090,
+        "views": 24252,
         "link": "https://unikal.az/news/553495/gelen-il-pensiyalar-bele-artirilacaq-deputat-aciqladi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "  Kimin evində varsa, bəxti gətirdi  ",
+        "views": 24127,
+        "link": "https://yenisabah.az/kimin-evinde-varsa-bexti-getirdi",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Azərbaycan milli kimliyinin kodları: Tarixi yaddaş, sosial-psixoloji arxetiplər və kollektiv şüurun fəlsəfəsi",
         "views": 24050,
         "link": "https://crossmedia.az/az/article/112585",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Арсен Агамалян после поездки в Баку: Я не встретил ни одного азербайджанца, который плохо ко мне отнесся - Minval Politika",
-        "views": 23667,
+        "views": 23676,
         "link": "https://minval.az/news/124560936",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Первые леди Азербайджана и Турции побеседовали за чайным столом - Minval Politika",
-        "views": 23282,
+        "views": 23435,
         "link": "https://minval.az/news/124561787",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Məleykə Abbaszadə BDU-nun rektoru oldu",
+        "views": 23241,
+        "link": "https://qafqazinfo.az/news/detail/meleyke-abbaszade-bdu-nun-rektoru-oldu-529043",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Azərbaycanda bu şəxslərə 200 manat veriləcək",
-        "views": 23121,
+        "views": 23144,
         "link": "https://sonxeber.az/409614/azerbaycanda-bu-sexslere-200-manat-verilecek",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "В Норвегии предложил повысить пенсионный возраст в стране",
+        "views": 22735,
+        "link": "https://report.az/ru/drugie-strany/v-norvegii-predlozhil-povysit-pensionnyj-vozrast-v-strane",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "\"Omid\"in rəhbərinin mağaza müdirini döyməsinin görüntüləri - Anbaan video",
-        "views": 22713,
+        "views": 22726,
         "link": "https://oxu.az/kriminal/azerbaycanda-meshur-magazalar-sebekesinin-rehberi-hebs-edildi-foto",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Мировые новости и события | Report.az",
+        "views": 22568,
+        "link": "https://report.az/ru/v-mire",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Kombilərlə bağlı yeni qayda: noyabrın 6-dan qüvvəyə minir",
-        "views": 22452,
+        "views": 22461,
         "link": "https://metbuat.az/news/1565955/kombilerle-bagli-yeni-qayda.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Hakimiyyətin sonu, dövlətçilik əxlaqının sınağı: İnsan və onun tarix qarşısındakı məsuliyyəti",
-        "views": 22414,
+        "views": 22415,
         "link": "https://crossmedia.az/az/article/114764",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "“Bir ud danışdı, bir kainat susub dinlədi”— Qarabağ qazisi İdris Hüseynovun ruhlara toxunan sənət möcüzəsi",
-        "views": 22183,
+        "views": 22184,
         "link": "https://veteninfo.az/bir-ud-danisdi-bir-kainat-susub-dinledi-qarabag-qazisi-idris-huseynovun-ruhlara-toxunan-senet-mocuzesi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Bakı məşhur xəstəxana bağlanır - Xəstələr köçürülüb",
-        "views": 22051,
+        "views": 22070,
         "link": "https://sonxeber.az/409872/baki-meshur-xestexana-baglanir-xesteler-kocurulub",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "General Natiq Əliyevin qızı saxlanıldı",
-        "views": 21829,
+        "title": "Generalın qızı məhkəməyə gətirildi - Halı pisləşdi",
+        "views": 21866,
         "link": "https://oxu.az/kriminal/general-natiq-eliyevin-qizi-saxlanildi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "3 yaşınadək uşağı olan bu analara hər ay — 100 manat veriləcək",
-        "views": 21698,
+        "views": 21752,
         "link": "https://qafqazinfo.az/news/detail/3-yasinadek-usagi-olan-analara-her-ay-100-manat-verilecek-527317",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Qara bax, qara... — Video",
-        "views": 21430,
-        "link": "https://qafqazinfo.az/news/detail/qara-bax-qara-video-527570",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Axtardığınız səhifə tapılmadı",
+        "views": 21627,
+        "link": "https://oxu.az/hadise/semkirde-evden-iki-neferin-meyiti-tapildi",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Bakıda məşhur xəstəxana bağlanır - Xəstələr köçürülüb - ÖZƏL",
-        "views": 21428,
+        "views": 21450,
         "link": "https://baku.ws/social/baki-meshur-xestexana-baglanir-xesteler-kocurulub-ozel",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Qara bax, qara... — Video",
+        "views": 21445,
+        "link": "https://qafqazinfo.az/news/detail/qara-bax-qara-video-527570",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Məktəblərdə 5 günlük tətil başlayır - TARİXLƏR",
-        "views": 21266,
+        "views": 21298,
         "link": "https://metbuat.az/news/1566554/mekteblerde-5-gunluk-tetil-baslayir.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": null,
-        "views": 21159,
-        "link": "https://news.milli.az/society/1350633.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Sahil Babayev açıqladı: Gələn il pensiyalar bu qədər artacaq",
-        "views": 21142,
+        "views": 21190,
         "link": "https://olke.az/iqtisadiyyat/487558/sahil-babayev-aciqladi-gelen-il-pensiyalar-bu-qeder-artacaq/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Pensiyalar bu tarixdə ödəniləcək",
+        "views": 21179,
+        "link": "https://news.milli.az/society/1350633.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Последние новости Азербайджана и мира | Modern.az",
+        "views": 21158,
+        "link": "https://modern.az/ru/poslednie-novosti/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "286 nömrəli məktəbdə xəsarət alan şagirdlə bağlı AÇIQLAMA",
+        "views": 21107,
+        "link": "https://muallim.edu.az/286-nomreli-mektebde-xesaret-alan-sagirdle-bagliaciqlama",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Kimin evində varsa, bəxti gətirdi ",
-        "views": 20804,
+        "views": 20959,
         "link": "https://www.bakupost.az/kimin-evinde-varsa-bexti-getirdi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Pensiyalar bu tarixdə veriləcək",
-        "views": 20786,
+        "views": 20805,
         "link": "https://olke.az/olke/487350/pensiyalar-bu-tarixde-verilecek/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Azərbaycanda internetin yeni qiymətləri açıqlandı",
-        "views": 20680,
+        "views": 20689,
         "link": "https://olke.az/iqtisadiyyat/486741/azerbaycanda-internetin-yeni-qiymetleri-aciqlandi/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "XXI əsrin ən böyük kəşfi: Canlı olmayan maddələrdən hüceyrələr hazırlanır",
-        "views": 20621,
-        "link": "https://crossmedia.az/az/article/118927",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "İqtisadiyyat və Biznes xəbərləri | Report.az",
+        "views": 20605,
+        "link": "https://report.az/iqtisadiyyat-xeberleri",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Bakıda minik avtomobili körpüdən köməkçi yola aşdı",
-        "views": 20538,
+        "title": "Bakıda BMW-nin körpüdən aşmasının anbaan görüntüləri - Video",
+        "views": 20595,
         "link": "https://oxu.az/cemiyyet/bakida-minik-avtomobili-korpuden-komekci-yola-asdi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Лейла Алиева, Арзу Алиева и Алёна Алиева приняли участие в презентации проектов «Древний камень, современная память» и «Радиус ответственности» - ФОТО",
-        "views": 20462,
+        "views": 20463,
         "link": "https://news.day.az/officialchronicle/1871282.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "  Bunu edən sürücülər cərimələnəcək - 100 manat və 2 bal  ",
-        "views": 20405,
+        "views": 20417,
         "link": "https://yenisabah.az/bunu-eden-suruculer-cerimelenecek-100-manat-ve-2-bal",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Prezidentin təltif etdiyi şəxs Mikayıl Cabbarovun qayınatası İMİŞ - FOTO | Oxu24.com",
-        "views": 20384,
+        "views": 20388,
         "link": "https://oxu24.com/az/cemiyyet/176218/prezidentin-teltif-etdiyi-sexs-mikayil-cabbarovun-qayinatasi-imis-foto",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Dekabrda 9 gün iş olmayacaq - TARİXLƏR",
-        "views": 20266,
-        "link": "https://metbuat.az/news/1565998/dekabrda-9-gun-is-olmayacaq.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Dondurucu soyuqlar gəlir - Xəbərdarlıq",
-        "views": 20208,
+        "views": 20335,
         "link": "https://news.milli.az/weather/1351195.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Dekabrda 9 gün iş olmayacaq - TARİXLƏR",
+        "views": 20272,
+        "link": "https://metbuat.az/news/1565998/dekabrda-9-gun-is-olmayacaq.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Azərbaycanda bu məhsulun qiyməti 5 manatadək BAHALAŞDI — TodayPress.tv",
+        "views": 20042,
+        "link": "https://todaypress.tv/az/gundem/azerbaycanda-toyuq-etinin-qiymet-5-manata-qeder-bahalasdi",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Lənkəranda hava Həftəlik - Hava Day.Az",
+        "views": 19969,
+        "link": "https://weather.day.az/az/city/100147622/week.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Şah Abbasın, Sultan Əhmədin görüş yeri – Nadir şahın tacqoyma mərasimi bu rayonumuzda keçirilib",
-        "views": 19914,
+        "views": 19957,
         "link": "https://bizim.media/az/cemiyyet/646217/sah-abbasin-sultan-ehmedin-gorus-yeri-nadir-sahin-tacqoyma-merasimi-bu-rayonumuzda-kecirilib/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Ərdoğan Türkiyə prezidentliyini ona təhvil verdi - FOTO - Globalinfo.az",
-        "views": 19634,
-        "link": "https://globalinfo.az/erdogan-turkiye-prezidentliyini-ona-tehvil-verdi-foto/",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Bu ərazilərdə su olmayacaq - Xəbərdarlıq",
-        "views": 19416,
-        "link": "https://operativmm.az/az/post/bu-erazilerde-su-olmayacaq-xeberdarliq/87043",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "В Азербайджане приостановлена продажа ещё одного импортного масла - Фото",
-        "views": 19405,
-        "link": "https://oxu.az/ru/obshestvo/v-azerbajdzhane-priostanovlena-prodazha-eshyo-odnogo-importnogo-masla-foto",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Milyonçu Bəxtiyar Dalinin zorlamaq istədiyi deyilən qadın müğənni imiş: Təfərrüat - Video",
-        "views": 19143,
-        "link": "https://oxu.az/kriminal/novxanidaki-milyonluq-saray-in-sahibi-bextiyar-dali-hebs-edildi",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Emin Ağalarov ona yüksək vəzifə verdi - Foto",
-        "views": 19140,
-        "link": "https://axar.az/news/toplum/1146703.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Ərdoğandan Azərbaycana səfəri barədə — Açıqlama",
-        "views": 18965,
-        "link": "https://qafqazinfo.az/news/detail/erdogandan-azerbaycana-seferi-barede-aciqlama-527489",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "12 yaşlı uşaq qızıl külçəsi tapdı",
-        "views": 18930,
-        "link": "https://www.bakupost.az/12-yasli-usaq-qizil-kulcesi-tapdi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "DİM-ə sədr kim gətirilir? - Dörd namizədin adı çəkilir ",
+        "views": 19771,
+        "link": "https://modern.az/az/tehsil/854166/dim-e-sedr-kim-getirilir-dord-namizedin-adi-cekilir/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Yeni Müsavat - Onlayn ictimai-siyasi qəzet",
-        "views": 18869,
+        "views": 19748,
         "link": "https://musavat.com/?d=1",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Bu ərazilərdə su olmayacaq - Xəbərdarlıq",
+        "views": 19724,
+        "link": "https://operativmm.az/az/post/bu-erazilerde-su-olmayacaq-xeberdarliq/87043",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Oxu.Az - Son Xəbərlər, 24/7 Azərbaycan və Dünya xəbərləri",
+        "views": 19678,
+        "link": "https://oxu.az/page/5",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Ərdoğan Türkiyə prezidentliyini ona təhvil verdi - FOTO - Globalinfo.az",
+        "views": 19635,
+        "link": "https://globalinfo.az/erdogan-turkiye-prezidentliyini-ona-tehvil-verdi-foto/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Cəlilabadda hava Həftəlik - Hava Day.Az",
+        "views": 19448,
+        "link": "https://weather.day.az/az/city/100148290/week.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "В Азербайджане приостановлена продажа ещё одного импортного масла - Фото",
+        "views": 19408,
+        "link": "https://oxu.az/ru/obshestvo/v-azerbajdzhane-priostanovlena-prodazha-eshyo-odnogo-importnogo-masla-foto",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "APA.AZ- İqtisadiyyat xəbərləri",
+        "views": 19160,
+        "link": "https://apa.az/economy",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Milyonçu Bəxtiyar Dalinin zorlamaq istədiyi deyilən qadın müğənni imiş: Təfərrüat - Video",
+        "views": 19155,
+        "link": "https://oxu.az/kriminal/novxanidaki-milyonluq-saray-in-sahibi-bextiyar-dali-hebs-edildi",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Emin Ağalarov ona yüksək vəzifə verdi - Foto",
+        "views": 19146,
+        "link": "https://axar.az/news/toplum/1146703.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "12 yaşlı uşaq qızıl külçəsi tapdı",
+        "views": 19042,
+        "link": "https://www.bakupost.az/12-yasli-usaq-qizil-kulcesi-tapdi",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Ərdoğandan Azərbaycana səfəri barədə — Açıqlama",
+        "views": 18967,
+        "link": "https://qafqazinfo.az/news/detail/erdogandan-azerbaycana-seferi-barede-aciqlama-527489",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Torpağı qoyun yunu ilə örtməyə başladılar",
-        "views": 18814,
+        "views": 18818,
         "link": "https://metbuat.az/news/1566413/torpagi-qoyun-yunu-ile-ortmeye-basladilar.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "2026-cı il noyabrın 1-dən QÜVVƏYƏ MİNDİ | Oxu24.com",
-        "views": 18730,
+        "views": 18731,
         "link": "https://oxu24.com/az/cemiyyet/175913/2026-ci-il-noyabrin-1-den-quvveye-mindi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Sahil Babayev AÇIQLADI:14 faiz artacaq | Oxu24.com",
         "views": 18727,
         "link": "https://oxu24.com/az/cemiyyet/176168/sahil-babayev-aciqladi14-faiz-artacaq",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Последние новости Азербайджана и мира | Modern.az",
-        "views": 18693,
-        "link": "https://modern.az/ru/poslednie-novosti/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Güllü Muradovanın ərinə — 25 sutka verildi - Yenilənib",
-        "views": 18613,
+        "views": 18620,
         "link": "https://qafqazinfo.az/news/detail/gullu-muradovanin-erine-25-sutka-verildi-527585",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Əhalininin nəzərinə - Noyabrın 15-dən start veriləcək",
-        "views": 18590,
+        "views": 18619,
         "link": "https://sonxeber.az/409938/ehalininin-nezerine-noyabrin-15-den-start-verilecek",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Niyə bu sabunun üzərinə 72 faiz yazılır?",
-        "views": 18583,
+        "views": 18592,
         "link": "https://sonxeber.az/409055/niye-bu-sabunun-uzerine-72-faiz-yazilir",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "286 nömrəli məktəbdə xəsarət alan şagirdlə bağlı AÇIQLAMA",
-        "views": 18294,
-        "link": "https://muallim.edu.az/286-nomreli-mektebde-xesaret-alan-sagirdle-bagliaciqlama",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Xəbər lenti - Teleqraf",
+        "views": 18467,
+        "link": "https://teleqraf.az/latest/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "2026 - Minval Politika Новости Азербайджана и мира. Экономика. Общество. Политика.",
+        "views": 18357,
+        "link": "https://minval.az/2026",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Pensiyalar bu tarixdə ödəniləcək | KONKRET",
-        "views": 18074,
+        "views": 18116,
         "link": "https://konkret.az/pensiyalar-bu-tarixde-odenilecek-9/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Lənkəranda hava Həftəlik - Hava Day.Az",
-        "views": 17969,
-        "link": "https://weather.day.az/az/city/100147622/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Mayor idi, 10 ay sonra general oldu - FOTO",
-        "views": 17841,
-        "link": "https://metbuat.az/news/1566573/mayor-idi-10-ay-sonra-general-oldu.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Natiq Əliyevin qızından şikayətçi olan da general imiş",
-        "views": 17580,
-        "link": "https://qafqazinfo.az/news/detail/natiq-eliyevin-qizindan-sikayetci-olan-da-general-imis-528230",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Yay fəsli  uzanır...  6 ay  davam edəcək ",
-        "views": 17429,
-        "link": "https://www.lent.az/xeber/sosial/yay-fesli-uzanir-6-ay-davam-edecek-40695296",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Cəlilabadda hava Həftəlik - Hava Day.Az",
-        "views": 17406,
-        "link": "https://weather.day.az/az/city/100148290/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Dublin diplomatiyası: Azərbaycanın geosiyasi çəkisi, Britaniya ilə strateji tərəfdaşlıq  və Zəngəzur xəttinin gələcəyi",
-        "views": 17383,
-        "link": "https://crossmedia.az/az/article/118921",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "В Азербайджане могут изменить порядок выплаты зарплат и пенсий",
-        "views": 17331,
-        "link": "https://news.day.az/society/1873516.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Bakıdakı səs-küylü ad gününə dünya ulduzu gəlib - Video",
-        "views": 17296,
-        "link": "https://axsam.az/news/202180-bakidaki-seskuylu-ad-gunune-dunya-ulduzu-gelib-video",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Noyabrda bu 4 balığı yemək olmaz",
-        "views": 17249,
-        "link": "https://metbuat.az/news/1566424/noyabrda-bu-4-baligi-yemek-olmaz.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Metro və avtobuslarda hər dördüncü gediş 1 qəpik olacaq - Rəsmi",
-        "views": 17238,
-        "link": "https://oxu.az/cemiyyet/metro-ve-avtobuslarda-her-dorduncu-gedis-1-qepik-olacaq-resmi",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Azərbaycanda bu məhsulun qiyməti 5 manatadək BAHALAŞDI — TodayPress.tv",
-        "views": 17215,
-        "link": "https://todaypress.tv/az/gundem/azerbaycanda-toyuq-etinin-qiymet-5-manata-qeder-bahalasdi",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Qanunsuz tikinti ilə gündəmə gəlmişdi - Nazir işdən çıxardı - Unikal.az",
-        "views": 17132,
-        "link": "https://unikal.az/news/551909/qanunsuz-tikinti-ile-gundeme-gelmisdi-nazir-isden-cixardi",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Çay dəmləndikdən sonra nə qədər müddət ərzində içilməlidir?",
-        "views": 17072,
-        "link": "https://olke.az/maraqli/487064/ay-demlendikden-sonra-ne-qeder-muddet-erzinde-icilmelidir/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Pensiyalarda ikinci artımı bu şəxslər alacaqlar",
+        "views": 17986,
+        "link": "https://baku.ws/social/pensiyalarda-ikinci-artimi-bu-sexsler-alacaqlar",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "2026-cı ilin qeyri-iş günləri — Açıqlandı",
-        "views": 16934,
+        "views": 17950,
         "link": "https://qafqazinfo.az/news/detail/2026-ci-ilin-qeyri-is-gunleri-aciqlandi-491896",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Мировые новости и события | Report.az",
-        "views": 16915,
-        "link": "https://report.az/ru/v-mire",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Mayor idi, 10 ay sonra general oldu - FOTO",
+        "views": 17857,
+        "link": "https://metbuat.az/news/1566573/mayor-idi-10-ay-sonra-general-oldu.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Müəllimlər üçün metro və avtobus qiyməti 1 qəpik olacaq - Unikal.az",
-        "views": 16908,
-        "link": "https://unikal.az/news/551823/muellimler-ucun-metro-ve-avtobus-qiymeti-1-qepik-olacaq",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Məleykə Abbaszadə DİM-dən getdi, rektor təyin olundu - Sərəncam",
+        "views": 17846,
+        "link": "https://oxu.az/siyaset/meleyke-abbaszade-dim-den-getdi-rektor-teyin-olundu-serencam",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Natiq Əliyevin qızından şikayətçi olan da general imiş",
+        "views": 17626,
+        "link": "https://qafqazinfo.az/news/detail/natiq-eliyevin-qizindan-sikayetci-olan-da-general-imis-528230",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Polad Bülbüloğlu AzTV-nin yubileyinə o xanımla gəldi - FOTO",
+        "views": 17531,
+        "link": "https://modern.az/az/medeniyyet/853760/polad-bulbuloglu-aztv-nin-yubileyine-yene-o-xanimla-geldi-foto/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "В Азербайджане могут изменить порядок выплаты зарплат и пенсий",
+        "views": 17456,
+        "link": "https://news.day.az/society/1873516.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Bakıdakı səs-küylü ad gününə dünya ulduzu gəlib - Video",
+        "views": 17452,
+        "link": "https://axsam.az/news/202180-bakidaki-seskuylu-ad-gunune-dunya-ulduzu-gelib-video",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Yay fəsli  uzanır...  6 ay  davam edəcək ",
+        "views": 17436,
+        "link": "https://www.lent.az/xeber/sosial/yay-fesli-uzanir-6-ay-davam-edecek-40695296",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Dublin diplomatiyası: Azərbaycanın geosiyasi çəkisi, Britaniya ilə strateji tərəfdaşlıq  və Zəngəzur xəttinin gələcəyi",
+        "views": 17384,
+        "link": "https://crossmedia.az/az/article/118921",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Turkic World",
+        "views": 17331,
+        "link": "https://turkic.world/az/latest/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Metro və avtobuslarda hər dördüncü gediş 1 qəpik olacaq - Rəsmi",
+        "views": 17295,
+        "link": "https://oxu.az/cemiyyet/metro-ve-avtobuslarda-her-dorduncu-gedis-1-qepik-olacaq-resmi",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Noyabrda bu 4 balığı yemək olmaz",
-        "views": 16889,
+        "views": 17262,
+        "link": "https://metbuat.az/news/1566424/noyabrda-bu-4-baligi-yemek-olmaz.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Скончался Национальный герой Азербайджана Эхтирам Алиев",
+        "views": 17219,
+        "link": "https://oxu.az/ru/obshestvo/skonchalsya-nacionalnyj-geroj-azerbajdzhana-ehtiram-aliev",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Qanunsuz tikinti ilə gündəmə gəlmişdi - Nazir işdən çıxardı - Unikal.az",
+        "views": 17136,
+        "link": "https://unikal.az/news/551909/qanunsuz-tikinti-ile-gundeme-gelmisdi-nazir-isden-cixardi",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Çay dəmləndikdən sonra nə qədər müddət ərzində içilməlidir?",
+        "views": 17083,
+        "link": "https://olke.az/maraqli/487064/ay-demlendikden-sonra-ne-qeder-muddet-erzinde-icilmelidir/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Müəllimlər üçün metro və avtobus qiyməti 1 qəpik olacaq - Unikal.az",
+        "views": 16913,
+        "link": "https://unikal.az/news/551823/muellimler-ucun-metro-ve-avtobus-qiymeti-1-qepik-olacaq",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Noyabrda bu 4 balığı yemək olmaz",
+        "views": 16897,
         "link": "https://olke.az/olke/487079/noyabrda-bu-4-balii-yemek-olmaz/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Azərbaycandan və dünyadan xəbərlər - Qafqazinfo.az",
+        "views": 16888,
+        "link": "https://qafqazinfo.az/site/ru",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Bu şəxslər evlərini itirəcək",
-        "views": 16794,
+        "views": 16885,
         "link": "https://www.bakupost.az/bu-sexsler-evlerini-itirecek",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Лента | 1news.az",
+        "views": 16840,
+        "link": "https://1news.az/lenta/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "AZƏRBAYCANDA QAZLA İŞLƏYƏN CİHAZLARLA BAĞLI YENİ TƏLƏBLƏR - Gələn həftə qüvvəyə minəcək",
-        "views": 16750,
+        "views": 16756,
         "link": "https://azpolitika.info/?p=845541",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "İqtisadiyyat və Biznes xəbərləri | Report.az",
-        "views": 16473,
-        "link": "https://report.az/iqtisadiyyat-xeberleri",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Prokuror general qızı haqda qərardan protest verdi",
+        "views": 16559,
+        "link": "https://qafqazinfo.az/news/detail/prokuror-general-qizi-haqda-qerardan-protest-verdi-528661",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Bu müavinətlər artırılır — Əhaliyə şad xəbər",
-        "views": 16458,
+        "views": 16477,
         "link": "https://qafqazinfo.az/news/detail/bu-muavinetler-artirilir-ehaliye-sad-xeber-527340",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Bir ildə 700 mindən çox insan BU SƏBƏBDƏN ölüb | KONKRET",
         "views": 16434,
         "link": "https://konkret.az/bir-ilde-700-minden-cox-insan-bu-sebebden-olub/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Oxu.Az - Son Xəbərlər, 24/7 Azərbaycan və Dünya xəbərləri",
-        "views": 16411,
-        "link": "https://oxu.az/page/5",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "“Qarabağ”da fəaliyyətə başladı - Video",
-        "views": 16365,
+        "title": "Qol.az - Ən son idman xəbərləri",
+        "views": 16371,
         "link": "https://qol.az/news/233121-qarabagda-fealiyyete-basladi-video",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Şəkidə hava Həftəlik - Hava Day.Az",
+        "views": 16341,
+        "link": "https://weather.day.az/az/city/100585170/week.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Bakıda sərxoş kişi əvvəl maşını mağazaya çırpdı, sonra qadını yumruqladı - Video",
+        "views": 16259,
+        "link": "https://oxu.az/hadise/bakida-serxos-kisi-evvel-masini-magazaya-cirpdi-sonra-qadini-yumruqladi-video",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Кто он - Алексей Садыков, \"легендарный\" переводчик Путина? - Досье + Видео",
+        "views": 16257,
+        "link": "https://oxu.az/ru/obshestvo/kto-on-aleksej-sadykov-legendarnyj-perevodchik-putina-dose-video",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Azərbaycanda ən yüksək maaşı kimlər alır? - Foto",
+        "views": 16237,
+        "link": "https://oxu.az/iqtisadiyyat/azerbaycanda-en-yuksek-maasi-kimler-alir-foto",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Qəbələdə hava Həftəlik - Hava Day.Az",
+        "views": 16177,
+        "link": "https://weather.day.az/az/city/100585231/week.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Mayor idi, 10 ay sonra general oldu -34 yaşı var | Oxu24.com",
-        "views": 16170,
+        "views": 16177,
         "link": "https://oxu24.com/az/cemiyyet/176752/mayor-idi-10-ay-sonra-general-oldu-34-yasi-var",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "“Cəmiyyət səhv edir, Sahibə xanım haqlı idi”",
-        "views": 16075,
+        "views": 16090,
         "link": "https://qafqazinfo.az/news/detail/cemiyyet-sehv-edir-sahibe-xanim-haqli-idi-527061",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Скончался Национальный герой Азербайджана Эхтирам Алиев",
-        "views": 16054,
-        "link": "https://oxu.az/ru/obshestvo/skonchalsya-nacionalnyj-geroj-azerbajdzhana-ehtiram-aliev",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Şuşadan Xankəndiyə: Zəfərin dəyişdirdiyi geosiyasi reallıq  və Azərbaycanın yeni tarixi mərhələsi",
         "views": 16018,
         "link": "https://crossmedia.az/az/article/116852",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "“Etibar Pirverdiyev aylıq 55 min manat maaş alır?”",
-        "views": 16002,
+        "views": 16012,
         "link": "https://qafqazinfo.az/news/detail/etibar-pirverdiyev-ayliq-55-min-manat-maas-alir-527195",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Novxanıdakı “milyonluq saray”ın sahibi həbs edildi",
-        "views": 15831,
-        "link": "https://qafqazinfo.az/news/detail/novxanidaki-milyonluq-sarayin-sahibi-hebs-edildi-527212",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Rəcəb Tayyib Ərdoğandan Azərbaycana gözlənilən səfəri ilə bağlı açıqlama",
-        "views": 15818,
-        "link": "https://oxu.az/siyaset/receb-tayyib-erdogan-azerbaycana-gelecek-ozel",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Bu rayonlarda kommunal ödənişlər azaldıla bilər",
-        "views": 15802,
-        "link": "https://www.bakupost.az/bu-rayonlarda-kommunal-odenisler-azaldila-biler",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Bələdiyyə sədri həbs edildi – vəzifəsindən də uzaqlaşdırıldı",
-        "views": 15765,
-        "link": "https://musavat.com/mobile/news/belediyye-sedri-hebs-edildi-vezifesinden-de-uzaqlasdirildi_1301620.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Yataqxanada meyiti tapılan tələbənin müəmmalı ölümü: ATU-dan açıqlama gəldi",
-        "views": 15754,
+        "views": 15926,
         "link": "https://oxu.az/cemiyyet/yataqxanada-meyiti-tapilan-telebe-ile-bagli-atu-dan-aciqlama",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "2026 - Minval Politika Новости Азербайджана и мира. Экономика. Общество. Политика.",
-        "views": 15577,
-        "link": "https://minval.az/2026",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Bu rayonlarda kommunal ödənişlər azaldıla bilər",
+        "views": 15861,
+        "link": "https://www.bakupost.az/bu-rayonlarda-kommunal-odenisler-azaldila-biler",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Turkic World",
-        "views": 15526,
-        "link": "https://turkic.world/az/latest/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Novxanıdakı “milyonluq saray”ın sahibi həbs edildi",
+        "views": 15837,
+        "link": "https://qafqazinfo.az/news/detail/novxanidaki-milyonluq-sarayin-sahibi-hebs-edildi-527212",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "  4 şəhərimizdəki hava limanlarının koordinatlarını  SEPAH-a kim ötürüb? – ŞOK AD",
-        "views": 15376,
-        "link": "https://yenisabah.az/4-seherimizdeki-hava-limanlarinin-koordinatlarini",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Rəcəb Tayyib Ərdoğandan Azərbaycana gözlənilən səfəri ilə bağlı açıqlama",
+        "views": 15828,
+        "link": "https://oxu.az/siyaset/receb-tayyib-erdogan-azerbaycana-gelecek-ozel",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Sahil Babayev maaşlardan danışdı: “Gələn ildən etibarən...”",
-        "views": 15372,
-        "link": "https://olke.az/olke/486710/sahil-babayev-maaslardan-danisdi-ldquogelen-ilden-etibarenrdquo/",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Bunu edən sürücülər cərimələnəcək - 100 manat və 2 bal | KONKRET",
-        "views": 15354,
-        "link": "https://konkret.az/bunu-eden-suruculer-cerimelenecek-100-manat-ve-2-bal/",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Prokuror general qızı haqda qərardan protest verdi",
-        "views": 15350,
-        "link": "https://qafqazinfo.az/news/detail/prokuror-general-qizi-haqda-qerardan-protest-verdi-528661",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Bələdiyyə sədri həbs edildi – vəzifəsindən də uzaqlaşdırıldı",
+        "views": 15771,
+        "link": "https://musavat.com/mobile/news/belediyye-sedri-hebs-edildi-vezifesinden-de-uzaqlasdirildi_1301620.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "“Bir səhər əllərini sonuncu dəfə tutdum”",
-        "views": 15342,
+        "views": 15493,
         "link": "https://axsam.az/news/201958-bir-seher-ellerini-sonuncu-defe-tutdum",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Kimin evində varsa, bəxti gətirdi  | Oxu24.com",
-        "views": 15312,
-        "link": "https://oxu24.com/az/maraqli/175823/kimin-evinde-varsa-bexti-getirdi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "İdman xəbərləri. Azərbaycanda və dünyada futbol yeniliklər",
+        "views": 15486,
+        "link": "https://oxu.az/idman",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Antarktida: Yer kürəsinin ən sirli, soyuq və yaşayış olmayan qitəsi ",
+        "views": 15393,
+        "link": "https://crossmedia.az/az/article/120548",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Sahil Babayev maaşlardan danışdı: “Gələn ildən etibarən...”",
+        "views": 15384,
+        "link": "https://olke.az/olke/486710/sahil-babayev-maaslardan-danisdi-ldquogelen-ilden-etibarenrdquo/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Bunu edən sürücülər cərimələnəcək - 100 manat və 2 bal | KONKRET",
+        "views": 15383,
+        "link": "https://konkret.az/bunu-eden-suruculer-cerimelenecek-100-manat-ve-2-bal/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "  4 şəhərimizdəki hava limanlarının koordinatlarını  SEPAH-a kim ötürüb? – ŞOK AD",
+        "views": 15379,
+        "link": "https://yenisabah.az/4-seherimizdeki-hava-limanlarinin-koordinatlarini",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Ulduz falı: 11 noyabr, 2026-cı il",
-        "views": 15305,
+        "views": 15319,
         "link": "https://bizimyol.info/aze/articles/2026/11/10/5344dfnqwd108wywus.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "APA.AZ- İqtisadiyyat xəbərləri",
-        "views": 15287,
-        "link": "https://apa.az/economy",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Kimin evində varsa, bəxti gətirdi  | Oxu24.com",
+        "views": 15313,
+        "link": "https://oxu24.com/az/maraqli/175823/kimin-evinde-varsa-bexti-getirdi",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "General Natiq Əliyevin qızı saxlanıldı",
-        "views": 15278,
+        "views": 15306,
         "link": "https://qafqazinfo.az/news/detail/general-natiq-eliyevin-qizi-saxlanildi-528224",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "“We will either emerge victorious or die as martyrs” – Iran — TodayPress.tv",
-        "views": 15252,
+        "views": 15261,
         "link": "https://todaypress.tv/en/world/we-will-either-emerge-victorious-or-die-as-martyrs-iran",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Noyabr ayının pensiyaları ödənildi",
+        "views": 15259,
+        "link": "https://modern.az/az/olke/853693/noyabr-ayinin-pensiyalari-odenildi/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Aslan Fətullayevin nəşi Azərbaycana gətirilib",
+        "views": 15156,
+        "link": "https://axsam.az/news/202363-aslan-fetullayevin-nesi-azerbaycana-getirilib",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Saatlıq maaş sisteminə keçəcək ilk sahələr açıqlandı",
-        "views": 15126,
+        "views": 15149,
         "link": "https://modern.az/az/aktual/852745/saatliq-maas-sistemine-kececek-ilk-saheler-aciqlandi/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Azərbaycan millisi püşkatmada 5-ci səbətdə - Avro-2028",
+        "views": 15127,
+        "link": "https://qol.az/news/233327-azerbaycan-millisi-puskatmada-5-ci-sebetde-avro-2028",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Etibar Pirverdiyev 15 min manatlıq gülü kimin üçün aldırıb?",
+        "views": 15089,
+        "link": "https://oxu.az/cemiyyet/etibar-pirverdiyev-15-min-manatliq-gulu-kimin-ucun-aldirib",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Türkiyə-Azərbaycan qardaşlığı sarsılmazdır: Şuşadan dünyaya verilən birlik mesajı ",
         "views": 15076,
         "link": "https://crossmedia.az/az/article/117045",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Aslan Fətullayevin nəşi Azərbaycana gətirilib",
-        "views": 15063,
-        "link": "https://axsam.az/news/202363-aslan-fetullayevin-nesi-azerbaycana-getirilib",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Etibar Pirverdiyev 15 min manatlıq gülü kimin üçün aldırıb?",
-        "views": 15033,
-        "link": "https://oxu.az/cemiyyet/etibar-pirverdiyev-15-min-manatliq-gulu-kimin-ucun-aldirib",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Xəbər lenti - Teleqraf",
-        "views": 14982,
-        "link": "https://teleqraf.az/latest/",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Murad Adıgözəlzadə və Ayselin qızı - Video",
-        "views": 14941,
-        "link": "https://axsam.az/news/202061-murad-adigozelzade-ve-ayselin-qizi-video",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "349 insanın həyatına son qoyan hava toqquşması - Charkhi Dadri faciəsi",
-        "views": 14840,
-        "link": "https://crossmedia.az/az/article/116380",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Prezidentlərin diqqətini çəkən XTQ zabiti kimdir? — Video",
-        "views": 14828,
-        "link": "https://qafqazinfo.az/news/detail/prezidentlerin-diqqetini-ceken-xtq-zabiti-kimdir-video-528116",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Azərbaycanda tanınmış aktyor VƏFAT ETDİ",
-        "views": 14738,
-        "link": "https://baku.ws/mdniyyt/azerbaycanda-taninmis-aktyor-vefat-etdi2026",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Azərbaycanda inək və toyuqlarla bağlı yeni qərar – Məqsəd bu imiş - Globalinfo.az",
-        "views": 14736,
-        "link": "https://globalinfo.az/heyetinde-inek-toyuq-saxlayanlarla-bagli-yeni-qerarin-perdearxasi-meqsed-bu-imis/",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "В Баку отмечен юбилей автора песен к фильмам &quot;Кавказская пленница&quot;, &quot;Бриллиантовая рука&quot;, &quot;12 стульев&quot;, &quot;Операция Ы&quot; - ФОТО",
-        "views": 14724,
-        "link": "https://news.day.az/culture/1871756.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Polkovnikin maşınla vurub öldürdüyü qadın həbsdə olan oğlunun övladlarına zibillikdən ərzaq axtarırmış - Hadisə anının videosu",
-        "views": 14609,
-        "link": "https://oxu.az/hadise/bakida-qarajdan-cixan-avtomobil-qadini-vurub-oldurdu",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Nazir məktəblərlə bağlı ƏMR İMZALADI: Dəyişiklik EDİLDİ | Oxu24.com",
-        "views": 14599,
-        "link": "https://oxu24.com/az/cemiyyet/175763/nazir-mekteblerle-bagli-emr-imzaladi-deyisiklik-edildi",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Ayın 2-də yağış yağacaq, qara keçəcək - Proqnoz",
-        "views": 14569,
-        "link": "https://news.milli.az/society/1349755.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Xəzər dənizində naməlum varlıq göründü - (Video)",
-        "views": 14558,
-        "link": "https://news.milli.az/country/1350756.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Qəbələdə hava Həftəlik - Hava Day.Az",
-        "views": 14556,
-        "link": "https://weather.day.az/az/city/100585231/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Noyabrın 6-dan 30-dək davam edəcək - AÇIQLAMA | Oxu24.com",
-        "views": 14549,
-        "link": "https://oxu24.com/az/cemiyyet/175990/noyabrin-6-dan-30-dek-davam-edecek-aciqlama",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Deputat qızına 400 min nəfərlik toy edir - Globalinfo.az",
-        "views": 14527,
-        "link": "https://globalinfo.az/deputat-qizina-400-min-neferlik-toy-edir-modi-de-devet-alacaq/",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Şəkidə hava Həftəlik - Hava Day.Az",
-        "views": 14457,
-        "link": "https://weather.day.az/az/city/100585170/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Şagirdlərin “mygov”da qeydiyyata alınması müzakirə yaratdı — Rəsmi cavab",
-        "views": 14446,
-        "link": "https://qafqazinfo.az/news/detail/sagirdlerin-mygovda-qeydiyyata-alinmasi-muzakire-yaratdi-resmi-cavab-527381",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Güllü Muradovanın ərinə — 25 sutka verildi - Yenilənib",
-        "views": 14404,
-        "link": "https://qafqazinfo.az/news/detail/gullu-muradovanin-eri-hebs-edildi-527585",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Pensiyaçılarla bağlı yeni vəziyyət yarandı | KONKRET",
-        "views": 14332,
-        "link": "https://konkret.az/pensiyacilarla-bagli-yeni-veziyyet-yarandi-200-manat-verilir-evezinde/",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "  Azərbaycanda 34 yaşlı general kimdir? –  Karyera tarixçəsi gündəm oldu",
-        "views": 14313,
-        "link": "https://yenisabah.az/azerbaycanda-en-genc-generallardan-biri-vezife-yukselisi-ile-gundeme-geldi",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Qalstukundakı simvolla mesaj verdi: mənası bu imiş - FOTO - Globalinfo.az",
-        "views": 14292,
-        "link": "https://globalinfo.az/qalstukundaki-simvolla-mesaj-verdi-menasi-bu-imis-foto/",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Pensiyalar 45 manat artacaq: 2027-ci il üçün proqnoz",
-        "views": 14192,
-        "link": "https://oxu.az/iqtisadiyyat/pensiyalar-45-manat-artacaq-2027-ci-il-ucun-proqnoz",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Ulduz falı: 9 noyabr, 2026-cı il",
-        "views": 14133,
-        "link": "https://bizimyol.info/aze/articles/2026/11/08/1057yex6q710a3ljml.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "В Азербайджане электронные устройства в квартирах будут поставлены на учёт",
-        "views": 14133,
-        "link": "https://oxu.az/ru/obshestvo/v-azerbajdzhane-elektronnye-ustrojstva-v-kvartirah-budut-postavleny-na-uchyot",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Ukraynadakı əməliyyatda tutulan azərbaycanlıların adları açıqlandı — Video",
-        "views": 14100,
-        "link": "https://qafqazinfo.az/news/detail/ukraynadaki-emeliyyatda-tutulan-azerbaycanlilarin-adlari-aciqlandi-video-527200",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Ona yüksək vəzifə verildi - DOSYE",
-        "views": 14005,
-        "link": "https://nocomment.az/cemiyyet/ona-yuksek-vezife-verildi-dosye-557414",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "96 yaşlı milyarder 48 ildir su içmirmiş...",
-        "views": 13995,
-        "link": "https://qafqazinfo.az/news/detail/96-yasli-milyarder-48-ildir-su-icmirmis-526986",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Üç qonşu ölkə arasında görünməmiş köç başladı – 17 ilin rekordu  ",
-        "views": 13953,
-        "link": "https://musavat.com/news/uc-qonsu-olkemiz-arasinda-gorunmemis-koc-basladi-17-ilin-rekordu_1303188.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Лента | 1news.az",
-        "views": 13948,
-        "link": "https://1news.az/lenta/",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Qədəşovun kürəkəninə 11 il həbs — “Atlant” müsadirə edildi",
-        "views": 13944,
-        "link": "https://qafqazinfo.az/news/detail/qedesovun-kurekenine-11-il-hebs-atlant-musadire-edildi-528647",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "На российском НПЗ в Омске начался пожар после атаки БПЛА",
-        "views": 13934,
-        "link": "https://report.az/ru/v-regione/na-rossijskom-npz-v-omske-nachalsya-pozhar-posle-ataki-bpla",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "ABŞ-də təyyarə yerə çırpıldı, bütün heyət öldü: Pilotun son sözü nə olub? - Anbaan görüntülər",
-        "views": 13911,
-        "link": "https://oxu.az/dunya/abs-de-biznes-teyyaresi-yere-cirpildi-goyertede-olanlarin-hamisi-helak-oldu-video",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "404 - Axtardığınız səhifə mövcud deyil.",
-        "views": 13859,
-        "link": "https://metbuat.az/news/1566114/32-ildir-dyp-ye-rehberlik-eden-general.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Azərbaycandan və dünyadan xəbərlər - Qafqazinfo.az",
-        "views": 13841,
-        "link": "https://qafqazinfo.az/site/ru",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "14 metrlik nəhəng maşını hər kəsi heyrətləndirdi — İkimərtəbəli ev boydadır - Video",
-        "views": 13817,
-        "link": "https://qafqazinfo.az/news/detail/14-metrlik-neheng-masini-herk-kesi-heyretlendirdi-ikimertebeli-ev-boydadir-video-528044",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Xaçmazda hava Həftəlik - Hava Day.Az",
-        "views": 13688,
+        "views": 15062,
         "link": "https://weather.day.az/az/city/100584717/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Qədəşovun kürəkəninə 11 il həbs — “Atlant” müsadirə edildi",
+        "views": 15003,
+        "link": "https://qafqazinfo.az/news/detail/qedesovun-kurekenine-11-il-hebs-atlant-musadire-edildi-528647",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Prezident təsdiqlədi: İş və istirahət saatları dəyişdirildi - Bu qurumda",
+        "views": 14947,
+        "link": "https://nocomment.az/cemiyyet/prezident-tesdiqledi-is-ve-istirahet-saatlari-deyisdirildi-bu-qurumda-558943",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Murad Adıgözəlzadə və Ayselin qızı - Video",
+        "views": 14946,
+        "link": "https://axsam.az/news/202061-murad-adigozelzade-ve-ayselin-qizi-video",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Elçin Babayev vəzifəsindən azad olundu",
+        "views": 14945,
+        "link": "https://qafqazinfo.az/news/detail/elcin-babayev-vezifesinden-azad-olundu-529042",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "News365.az | Azərbaycanda və dünyada baş verən ən son xəbərlər",
+        "views": 14849,
+        "link": "https://news365.az/posts",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Prezidentlərin diqqətini çəkən XTQ zabiti kimdir? — Video",
+        "views": 14841,
+        "link": "https://qafqazinfo.az/news/detail/prezidentlerin-diqqetini-ceken-xtq-zabiti-kimdir-video-528116",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "349 insanın həyatına son qoyan hava toqquşması - Charkhi Dadri faciəsi",
+        "views": 14841,
+        "link": "https://crossmedia.az/az/article/116380",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "İlham Əliyev Elçin Babayevi vəzifəsindən azad etdi",
+        "views": 14799,
+        "link": "https://oxu.az/siyaset/ilham-eliyev-elcin-babayevi-vezifesinden-azad-etdi",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Şamaxıda hava Həftəlik - Hava Day.Az",
+        "views": 14771,
+        "link": "https://weather.day.az/az/city/100585156/week.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Azərbaycanda tanınmış aktyor VƏFAT ETDİ",
+        "views": 14753,
+        "link": "https://baku.ws/mdniyyt/azerbaycanda-taninmis-aktyor-vefat-etdi2026",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Azərbaycanda inək və toyuqlarla bağlı yeni qərar – Məqsəd bu imiş - Globalinfo.az",
+        "views": 14744,
+        "link": "https://globalinfo.az/heyetinde-inek-toyuq-saxlayanlarla-bagli-yeni-qerarin-perdearxasi-meqsed-bu-imis/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "В Баку отмечен юбилей автора песен к фильмам &quot;Кавказская пленница&quot;, &quot;Бриллиантовая рука&quot;, &quot;12 стульев&quot;, &quot;Операция Ы&quot; - ФОТО",
+        "views": 14729,
+        "link": "https://news.day.az/culture/1871756.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "1 qola görə mümkün pley-off-dan kənarda qaldıq",
+        "views": 14674,
+        "link": "https://qol.az/news/233301-1-qola-gore-mumkun-pley-off-dan-kenarda-qaldiq",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Polkovnikin maşınla vurub öldürdüyü qadın həbsdə olan oğlunun övladlarına zibillikdən ərzaq axtarırmış - Hadisə anının videosu",
+        "views": 14625,
+        "link": "https://oxu.az/hadise/bakida-qarajdan-cixan-avtomobil-qadini-vurub-oldurdu",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Nazir məktəblərlə bağlı ƏMR İMZALADI: Dəyişiklik EDİLDİ | Oxu24.com",
+        "views": 14602,
+        "link": "https://oxu24.com/az/cemiyyet/175763/nazir-mekteblerle-bagli-emr-imzaladi-deyisiklik-edildi",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Xəzər dənizində naməlum varlıq göründü - (Video)",
+        "views": 14589,
+        "link": "https://news.milli.az/country/1350756.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Ayın 2-də yağış yağacaq, qara keçəcək - Proqnoz",
+        "views": 14573,
+        "link": "https://news.milli.az/society/1349755.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Bərdədə hava Həftəlik - Hava Day.Az",
+        "views": 14556,
+        "link": "https://weather.day.az/az/city/100587057/week.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Noyabrın 6-dan 30-dək davam edəcək - AÇIQLAMA | Oxu24.com",
+        "views": 14553,
+        "link": "https://oxu24.com/az/cemiyyet/175990/noyabrin-6-dan-30-dek-davam-edecek-aciqlama",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Deputat qızına 400 min nəfərlik toy edir - Globalinfo.az",
+        "views": 14530,
+        "link": "https://globalinfo.az/deputat-qizina-400-min-neferlik-toy-edir-modi-de-devet-alacaq/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Şagirdlərin “mygov”da qeydiyyata alınması müzakirə yaratdı — Rəsmi cavab",
+        "views": 14459,
+        "link": "https://qafqazinfo.az/news/detail/sagirdlerin-mygovda-qeydiyyata-alinmasi-muzakire-yaratdi-resmi-cavab-527381",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Güllü Muradovanın ərinə — 25 sutka verildi - Yenilənib",
+        "views": 14417,
+        "link": "https://qafqazinfo.az/news/detail/gullu-muradovanin-eri-hebs-edildi-527585",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Ayın 17-də qar yağacaq, 10 dərəcə şaxta olacaq - Proqnoz",
+        "views": 14370,
+        "link": "https://www.adalet.az/az/posts/detail/ayin-17-de-qar-yagacaq-10-derece-saxta-olacaq-proqnoz-1794821460",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Pensiyaçılarla bağlı yeni vəziyyət yarandı | KONKRET",
+        "views": 14336,
+        "link": "https://konkret.az/pensiyacilarla-bagli-yeni-veziyyet-yarandi-200-manat-verilir-evezinde/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "  Azərbaycanda 34 yaşlı general kimdir? –  Karyera tarixçəsi gündəm oldu",
+        "views": 14317,
+        "link": "https://yenisabah.az/azerbaycanda-en-genc-generallardan-biri-vezife-yukselisi-ile-gundeme-geldi",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Qalstukundakı simvolla mesaj verdi: mənası bu imiş - VİDEO - Globalinfo.az",
+        "views": 14306,
+        "link": "https://globalinfo.az/qalstukundaki-simvolla-mesaj-verdi-menasi-bu-imis-foto/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Pensiyalar 45 manat artacaq: 2027-ci il üçün proqnoz",
+        "views": 14202,
+        "link": "https://oxu.az/iqtisadiyyat/pensiyalar-45-manat-artacaq-2027-ci-il-ucun-proqnoz",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "В Азербайджане электронные устройства в квартирах будут поставлены на учёт",
+        "views": 14160,
+        "link": "https://oxu.az/ru/obshestvo/v-azerbajdzhane-elektronnye-ustrojstva-v-kvartirah-budut-postavleny-na-uchyot",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Ulduz falı: 9 noyabr, 2026-cı il",
+        "views": 14140,
+        "link": "https://bizimyol.info/aze/articles/2026/11/08/1057yex6q710a3ljml.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Ukraynadakı əməliyyatda tutulan azərbaycanlıların adları açıqlandı — Video",
+        "views": 14102,
+        "link": "https://qafqazinfo.az/news/detail/ukraynadaki-emeliyyatda-tutulan-azerbaycanlilarin-adlari-aciqlandi-video-527200",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Ona yüksək vəzifə verildi - DOSYE",
+        "views": 14062,
+        "link": "https://nocomment.az/cemiyyet/ona-yuksek-vezife-verildi-dosye-557414",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "96 yaşlı milyarder 48 ildir su içmirmiş...",
+        "views": 13996,
+        "link": "https://qafqazinfo.az/news/detail/96-yasli-milyarder-48-ildir-su-icmirmis-526986",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "На российском НПЗ в Омске начался пожар после атаки БПЛА",
+        "views": 13987,
+        "link": "https://report.az/ru/v-regione/na-rossijskom-npz-v-omske-nachalsya-pozhar-posle-ataki-bpla",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Üç qonşu ölkə arasında görünməmiş köç başladı – 17 ilin rekordu  ",
+        "views": 13962,
+        "link": "https://musavat.com/news/uc-qonsu-olkemiz-arasinda-gorunmemis-koc-basladi-17-ilin-rekordu_1303188.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "ABŞ-də təyyarə yerə çırpıldı, bütün heyət öldü: Pilotun son sözü nə olub? - Anbaan görüntülər",
+        "views": 13916,
+        "link": "https://oxu.az/dunya/abs-de-biznes-teyyaresi-yere-cirpildi-goyertede-olanlarin-hamisi-helak-oldu-video",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "14 metrlik nəhəng maşını hər kəsi heyrətləndirdi — İkimərtəbəli ev boydadır - Video",
+        "views": 13887,
+        "link": "https://qafqazinfo.az/news/detail/14-metrlik-neheng-masini-herk-kesi-heyretlendirdi-ikimertebeli-ev-boydadir-video-528044",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "404 - Axtardığınız səhifə mövcud deyil.",
+        "views": 13881,
+        "link": "https://metbuat.az/news/1566114/32-ildir-dyp-ye-rehberlik-eden-general.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "“Omid” mağazalar şəbəkəsinin rəhbəri həbs edildi",
-        "views": 13670,
+        "views": 13710,
         "link": "https://qafqazinfo.az/news/detail/omid-magazalar-sebekesinin-rehberi-hebs-edildi-527584",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "BDU-da ilk rəhbərdən ilk qadın rektora qədər — Sayca 27-cidir",
+        "views": 13697,
+        "link": "https://qafqazinfo.az/news/detail/bdu-da-ilk-rehberden-ilk-qadin-rektora-qeder-sayca-27-cidir-529058",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Ərdoğanın sevdiyi mahnı Xankəndidə — Video",
-        "views": 13669,
+        "views": 13679,
         "link": "https://qafqazinfo.az/news/detail/erdoganin-sevdiyi-mahni-xankendide-video-527927",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "İdman xəbərləri. Azərbaycanda və dünyada futbol yeniliklər",
-        "views": 13646,
-        "link": "https://oxu.az/idman",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Azərbaycanda ən yüksək maaşı kimlər alır? - Foto",
-        "views": 13613,
-        "link": "https://oxu.az/iqtisadiyyat/azerbaycanda-en-yuksek-maasi-kimler-alir-foto",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Noyabrda ardıcıl 4 gün iş olmayacaq",
+        "views": 13603,
+        "link": "https://qafqazinfo.az/news/detail/noyabrda-ardicil-4-gun-is-olmayacaq-527065",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Gələn il pensiyalar bu qədər artırılacaq - Rəsmi",
-        "views": 13583,
+        "views": 13586,
         "link": "https://news.milli.az/society/1350081.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Президент Ильхам Алиев принял участие в открытии Ханкендинского стадиона - ФОТО - ВИДЕО",
         "views": 13562,
         "link": "https://news.day.az/officialchronicle/1872759.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "News365.az | Azərbaycanda və dünyada baş verən ən son xəbərlər",
-        "views": 13552,
-        "link": "https://news365.az/posts",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Noyabrda ardıcıl 4 gün iş olmayacaq",
-        "views": 13550,
-        "link": "https://qafqazinfo.az/news/detail/noyabrda-ardicil-4-gun-is-olmayacaq-527065",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "\"Bit bazarı\"ndan divan aldı, 191 min dollar qazandı",
-        "views": 13538,
+        "views": 13553,
         "link": "https://metbuat.az/news/1566640/bit-bazari-ndan-divan-aldi-191-min-dollar-qazandi.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Gəncədə hava Bugün - Hava Day.Az",
+        "views": 13544,
+        "link": "https://weather.day.az/az/city/100586523/today.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "BakuPost",
+        "views": 13515,
+        "link": "https://www.bakupost.az/all",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Pensiya, maaş, “uşaqpulu”, müavinət – Gələn ilin artımları AÇIQLANDI  | Oxu24.com",
-        "views": 13493,
+        "views": 13501,
         "link": "https://oxu24.com/az/cemiyyet/176533/pensiya-maas-usaqpulu-muavinet-gelen-ilin-artimlari-aciqlandi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Könül Kərimova peşmandır",
-        "views": 13480,
+        "views": 13490,
         "link": "https://axsam.az/news/202220-konul-kerimova-pesmandir",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Prezident bir qrup media nümayəndəsini təltif etdi — Siyahı",
+        "views": 13462,
+        "link": "https://qafqazinfo.az/news/detail/prezident-bir-qrup-media-numayendesini-teltif-etdi-siyahi-527509",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "  Rəcəb Tayyib Ərdoğan Azərbaycana gəlir -  Tarix açıqlandı",
-        "views": 13444,
+        "views": 13454,
         "link": "https://yenisabah.az/receb-tayyib-erdogan-azerbaycana-gelir-379649",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": null,
+        "views": 13444,
+        "link": "https://weather.day.az/az/city/100585221/today.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Xəbər lenti - Milli.Az",
+        "views": 13420,
+        "link": "https://news.milli.az/?ts=0&s=-454.140625",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Çıxarkən cibinə banan qoymağı unutmadı — Video",
-        "views": 13358,
+        "views": 13382,
         "link": "https://qafqazinfo.az/news/detail/cixarken-cibine-banan-qoymagi-unutmadi-video-528210",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Pensiyalarda ikinci artımı bu şəxslər alacaqlar",
-        "views": 13356,
-        "link": "https://baku.ws/social/pensiyalarda-ikinci-artimi-bu-sexsler-alacaqlar",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Prezident bu ölkə ilə əbədi dostluq haqqında Müqaviləni təsdiqlədi",
+        "views": 13349,
+        "link": "https://qafqazinfo.az/news/detail/ozbekistanla-ebedi-dostluq-haqqinda-muqavile-tesdiqlendi-528820",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Xərçəng xəstəliyi ilə bağlı yeni kəşf- Kimyaterapiyaya son verilə bilər",
-        "views": 13328,
+        "views": 13344,
         "link": "https://musavat.com/news/xerceng-xesteliyi-ile-bagli-yeni-kesf-kimyaterapiyaya-son-verile-biler_1302680.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Новости Азербайджана от Oxu.Az | Главные события Баку и мира",
+        "views": 13319,
+        "link": "https://oxu.az/ru/page/3",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Xırdalanda 12 yaşlı qızın evdən getməsinin səbəbi bilindi - Foto",
-        "views": 13227,
+        "views": 13231,
         "link": "https://oxu.az/cemiyyet/12-yasli-melek-iki-gundur-itkin-dusub-kameraya-baxmaga-icaze-vermirler-foto",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Yüksək vəzifəyə təyin olunan Rəşad Əliyev kimdir? - DOSYE ",
-        "views": 13194,
+        "views": 13203,
         "link": "https://nocomment.az/cemiyyet/yuksek-vezifeye-teyin-olunan-resad-eliyev-kimdir-dosye-556781",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Pensiyalar bu tarixdə veriləcək",
-        "views": 13177,
+        "views": 13182,
         "link": "https://news.milli.az/society/1349917.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Şamaxıda hava Həftəlik - Hava Day.Az",
-        "views": 13167,
-        "link": "https://weather.day.az/az/city/100585156/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Food supplies being stockpiled, power and internet to be cut – Date set for the end of the world — TodayPress.tv",
+        "views": 13176,
+        "link": "https://todaypress.tv/en/world/food-supplies-being-stockpiled-power-and-internet-to-be-cut-date-set-for-the-end-of-the-world",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Rövşən Məmmədov onu vəzifəsindən azad etdi - FOTO",
         "views": 13150,
         "link": "https://nocomment.az/cemiyyet/rovsen-memmedov-onu-vezifesinden-azad-etdi-foto-554640",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Ceffri Epşteyn: Maliyyə karyerasından cinsi istismar işinə qədər gedən yol",
-        "views": 13134,
-        "link": "https://crossmedia.az/az/article/118841",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Prezident bir qrup media nümayəndəsini təltif etdi — Siyahı",
-        "views": 13122,
-        "link": "https://qafqazinfo.az/news/detail/prezident-bir-qrup-media-numayendesini-teltif-etdi-siyahi-527509",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Food supplies being stockpiled, power and internet to be cut – Date set for the end of the world — TodayPress.tv",
-        "views": 13120,
-        "link": "https://todaypress.tv/en/world/food-supplies-being-stockpiled-power-and-internet-to-be-cut-date-set-for-the-end-of-the-world",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Son xəbərlər",
+        "views": 13083,
+        "link": "https://azpolitika.info/son-xeberler/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Qaz plitəsi, kombi və su qızdırıcıları istifadə edənlərin nəzərinə: 6 gün sonra yeni qaydalar qüvvəyə minir",
-        "views": 13036,
+        "views": 13041,
         "link": "https://baku.ws/diger/qaz-plitesi-kombi-ve-su-qizdiricilari-istifade-edenlerin-nezerine-6-gun-sonra-yeni-qaydalar-quvveye-minir",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Bu şəxslərə 1 262 manat müavinət veriləcək",
-        "views": 13020,
+        "views": 13024,
         "link": "https://olke.az/iqtisadiyyat/486858/bu-sexslerenbsp1-262-manat-muavinet-verilecek/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Azərbaycanda terminallarla ödəniş qaydası dəyişdi",
+        "views": 13023,
+        "link": "https://oxu.az/iqtisadiyyat/azerbaycanda-terminallarla-odenis-qaydasi-deyisdi",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Ərdoğanın müavini həbs edildi",
         "views": 13007,
         "link": "https://axar.az/news/planet/1146314.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Azərbaycandan və dünyadan xəbərlər - Qafqazinfo.az",
+        "views": 12963,
+        "link": "https://qafqazinfo.az/news?page=1",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Abdullah Öcalan İmralıda iqamətgaha köçürüldü — Foto",
-        "views": 12955,
+        "views": 12956,
         "link": "https://qafqazinfo.az/news/detail/abdullah-ocalan-imralida-iqametgaha-kocuruldu-foto-527048",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Öcalan azadlığa çıxdı - Sensasiya",
-        "views": 12882,
+        "views": 12883,
         "link": "https://axar.az/news/gundem/1144900.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "İmtahan noyabrın 19-da saat 10:00-dan başlayacaq | Oxu24.com",
-        "views": 12866,
+        "views": 12868,
         "link": "https://oxu24.com/az/cemiyyet/176592/imtahan-noyabrin-19-da-saat-1000-dan-baslayacaq",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Məktəblərdə 7 gün dərs olmayacaq- TARİXLƏR | Oxu24.com",
-        "views": 12842,
+        "views": 12849,
         "link": "https://oxu24.com/az/cemiyyet/176848/mekteblerde-5-gunluk-tetil-baslayir-tarixler",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Ulduz falı: 12 noyabr, 2026-cı il",
-        "views": 12776,
-        "link": "https://bizimyol.info/aze/articles/2026/11/11/0601am5x6x1004otg9.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Bərdədə hava Həftəlik - Hava Day.Az",
-        "views": 12723,
-        "link": "https://weather.day.az/az/city/100587057/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Mehdiyevin çevriliş planını Rusiyaya o çatdırırmış - FOTO",
-        "views": 12622,
-        "link": "https://www.bakupost.az/mehdiyevin-cevrilis-planini-rusiyaya-o-catdirirmis-foto",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "ŞAD XƏBƏR - Bu işçilərə 13 və 14-cü maaş veriləcək",
-        "views": 12613,
-        "link": "https://musavat.com/mobile/news/sad-xeber-bu-iscilere-13-ve-14-cu-maas-verilecek_1304375.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Ayın 17-də qar yağacaq, 10 dərəcə şaxta olacaq - Proqnoz",
-        "views": 12573,
-        "link": "https://www.adalet.az/az/posts/detail/ayin-17-de-qar-yagacaq-10-derece-saxta-olacaq-proqnoz-1794821460",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Tiflisdə 68 milyon dollarlıq otelin sahibi kimdir?",
-        "views": 12561,
-        "link": "https://axar.az/news/gundem/1144756.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Nazir məktəblərlə bağlı ƏMR İMZALADI: Dəyişiklik EDİLDİ",
-        "views": 12549,
-        "link": "https://musavat.com/news/nazir-mekteblerle-bagli-emr-imzaladi-deyisiklik-edildi_1300886.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Bütün xəbərlər | Xəbər lenti və arxivi | Modern.az",
+        "views": 12847,
+        "link": "https://modern.az/az/butun-xeberler/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Elariz Amerikadakı qazancından danışdı",
-        "views": 12487,
+        "views": 12831,
         "link": "https://axsam.az/news/202493-elariz-amerikadaki-qazancindan-danisdi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Bakıda qadın bıçaqlanaraq öldü: Qardaşı şübhəli bilinir",
+        "views": 12826,
+        "link": "https://oxu.az/kriminal/bakida-qadin-bicaqlanaraq-oldu-qardasi-subheli-bilinir",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "İsmayıllıda hava Həftəlik - Hava Day.Az",
+        "views": 12783,
+        "link": "https://weather.day.az/az/city/100586318/week.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Ulduz falı: 12 noyabr, 2026-cı il",
+        "views": 12781,
+        "link": "https://bizimyol.info/aze/articles/2026/11/11/0601am5x6x1004otg9.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Millətlər Liqasında 1/4 finala yüksələn 8 komanda",
+        "views": 12735,
+        "link": "https://qol.az/news/233324-milletler-liqasinda-14-finala-yukselen-8-komanda",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "ŞAD XƏBƏR - Bu işçilərə 13 və 14-cü maaş veriləcək",
+        "views": 12676,
+        "link": "https://musavat.com/mobile/news/sad-xeber-bu-iscilere-13-ve-14-cu-maas-verilecek_1304375.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Mehdiyevin çevriliş planını Rusiyaya o çatdırırmış - FOTO",
+        "views": 12640,
+        "link": "https://www.bakupost.az/mehdiyevin-cevrilis-planini-rusiyaya-o-catdirirmis-foto",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "İnternet 3 ay olmayacaq, banklardakı pullar silinəcək? – Həqiqət üzə çıxdı",
+        "views": 12610,
+        "link": "https://azpolitika.info/?p=847141",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Nazir məktəblərlə bağlı ƏMR İMZALADI: Dəyişiklik EDİLDİ",
+        "views": 12586,
+        "link": "https://musavat.com/news/nazir-mekteblerle-bagli-emr-imzaladi-deyisiklik-edildi_1300886.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Tiflisdə 68 milyon dollarlıq otelin sahibi kimdir?",
+        "views": 12562,
+        "link": "https://axar.az/news/gundem/1144756.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Biləsuvarda hava Həftəlik - Hava Day.Az",
+        "views": 12538,
+        "link": "https://weather.day.az/az/city/100148340/week.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Bakıda gecə 14 saatdan uzun olacaq",
+        "views": 12484,
+        "link": "https://modern.az/az/aktual/853755/bakida-gece-14-saatdan-uzun-olacaq/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Tokayevin Rusiya təklifinə Ankara NÖQTƏ QOYDU",
-        "views": 12470,
+        "views": 12471,
         "link": "https://www.bakupost.az/tokayevin-rusiya-teklifine-ankara-noqte-qoydu",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Milli.Az Azərbaycan portalında Şou-Biznes.",
+        "views": 12461,
+        "link": "https://news.milli.az/showbiz/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Azərbaycanda iki sosial müavinət artırılır - Yeni məbləğlər",
+        "views": 12452,
+        "link": "https://oxu.az/cemiyyet/azerbaycanda-iki-sosial-muavinet-artirilir-yeni-meblegler",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Aslan Fətullayev doğulduğu kənddə dəfn olunacaq",
-        "views": 12423,
+        "views": 12449,
         "link": "https://qafqazinfo.az/news/detail/aslan-fetullayev-doguldugu-kendde-defn-olunacaq-528239",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "ONLARA VAXTINDAN ƏVVƏL NÖVBƏTİ XÜSUSİ RÜTBƏ VERİLDİ - Fotolar",
-        "views": 12391,
-        "link": "https://azpolitika.info/?p=845556",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Bakıda tanınmış xəstəxana bağlanır",
-        "views": 12376,
-        "link": "https://metbuat.az/news/1566611/bakida-taninmis-xestexana-baglanir.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Qubada hava Bugün - Hava Day.Az",
-        "views": 12340,
-        "link": "https://weather.day.az/az/city/100585221/today.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Əməkdar artistin nəşi Azərbaycana gətiriləcək",
-        "views": 12325,
+        "views": 12410,
         "link": "https://axsam.az/news/202368-emekdar-artistin-nesi-azerbaycana-getirilecek",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Azərbaycanda terminallarla ödəniş qaydası dəyişdi",
-        "views": 12319,
-        "link": "https://oxu.az/iqtisadiyyat/azerbaycanda-terminallarla-odenis-qaydasi-deyisdi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Bakıda tanınmış xəstəxana bağlanır",
+        "views": 12400,
+        "link": "https://metbuat.az/news/1566611/bakida-taninmis-xestexana-baglanir.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Yüksək vəzifəyə təyin olunan gənc 23 gün sonra işsiz qaldı",
-        "views": 12251,
-        "link": "https://oxu.az/cemiyyet/yuksek-vezifeye-teyin-olunan-genc-23-gun-sonra-issiz-qaldi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "ONLARA VAXTINDAN ƏVVƏL NÖVBƏTİ XÜSUSİ RÜTBƏ VERİLDİ - Fotolar",
+        "views": 12393,
+        "link": "https://azpolitika.info/?p=845556",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Moderator.az xəbər portalı",
-        "views": 12226,
+        "views": 12332,
         "link": "https://moderator.az/az/error/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Salyanda hava Həftəlik - Hava Day.Az",
+        "views": 12302,
+        "link": "https://weather.day.az/az/city/100147271/week.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Azərbaycan və Ermənistanda pasport qiymətləri – 215 manatlıq fərq üzə çıxdı",
+        "views": 12279,
+        "link": "https://musavat.com/mobile/news/azerbaycan-ve-ermenistanda-pasport-qiymetleri-215-manatliq-ferq-uze-cixdi_1304698.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Yüksək vəzifəyə təyin olunan gənc 23 gün sonra işsiz qaldı",
+        "views": 12267,
+        "link": "https://oxu.az/cemiyyet/yuksek-vezifeye-teyin-olunan-genc-23-gun-sonra-issiz-qaldi",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Bakıdakı kütləvi dava ilə bağlı daha üç nəfər saxlanıldı",
+        "views": 12155,
+        "link": "https://oxu.az/hadise/bakida-kutlevi-dava-uc-nefer-bicaqlandi-1680116",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Sabiq məmur doğum günündə vəfat etdi",
-        "views": 12134,
+        "views": 12141,
         "link": "https://baku.ws/incident/sabiq-memur-dogum-gununde-vefat-etdi",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Bakıda kütləvi dava: Üç nəfər bıçaqlandı",
-        "views": 12133,
-        "link": "https://oxu.az/hadise/bakida-kutlevi-dava-uc-nefer-bicaqlandi-1680116",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Bakıda sərxoş kişi əvvəl maşını mağazaya çırpdı, sonra qadını yumruqladı - Video",
-        "views": 12103,
-        "link": "https://oxu.az/hadise/bakida-serxos-kisi-evvel-masini-magazaya-cirpdi-sonra-qadini-yumruqladi-video",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "\"Niyə hələ də subaysan\" sualına aktrisanın reaksiyası",
-        "views": 12091,
-        "link": "https://axsam.az/news/202079-niye-hele-de-subaysan-sualina-aktrisanin-reaksiyasi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Dünyanı təhdid edən qorxulu problem Bakıya çatdı – Nə edəcəyik? — TodayPress.tv",
-        "views": 12077,
+        "views": 12103,
         "link": "https://todaypress.tv/az/sosial/dunyani-tehdid-eden-qorxulu-problem-bakiya-catdi-ne-edeceyik",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "\"Niyə hələ də subaysan\" sualına aktrisanın reaksiyası",
+        "views": 12102,
+        "link": "https://axsam.az/news/202079-niye-hele-de-subaysan-sualina-aktrisanin-reaksiyasi",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Qusarda hava Həftəlik - Hava Day.Az",
+        "views": 12101,
+        "link": "https://weather.day.az/az/city/100585220/week.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Футбол - Azerisport.com - Все об Азербайджанском спорте",
+        "views": 12085,
+        "link": "https://azerisport.com/ru/football/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Pensiya və maaşların verilməsi ilə bağlı YENİLİK – Vətəndaşlar sevinəcək - Globalinfo.az",
+        "views": 12069,
+        "link": "https://globalinfo.az/pensiya-ve-maaslarin-verilmesi-ile-bagli-yenilik-vetendaslar-sevinecek/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "İşdə məhəbbət macərası: DOST Agentliyinin müdir müavini işdən çıxarıldı",
         "views": 12068,
         "link": "https://musavat.com/news/isde-mehebbet-macerasi-dost-agentliyinin-mudir-muavini-isden-cixarildi_1304298.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Azərbaycanlı gənc İrəvana dostunun toyuna gedib — Video",
         "views": 12066,
         "link": "https://qafqazinfo.az/news/detail/azerbaycanli-genc-irevana-dostunun-toyuna-gedib-video-527328",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Erməni rəqqas Bakıdan yazdı: Bədbəxt insanlar…",
-        "views": 12033,
+        "views": 12039,
         "link": "https://axar.az/news/gundem/1145804.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Россия предложила Азербайджану помощь - Minval Politika",
-        "views": 12032,
+        "views": 12037,
         "link": "https://minval.az/news/124561069",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Azərbaycan və Ermənistanda pasport qiymətləri – 215 manatlıq fərq üzə çıxdı",
-        "views": 12027,
-        "link": "https://musavat.com/mobile/news/azerbaycan-ve-ermenistanda-pasport-qiymetleri-215-manatliq-ferq-uze-cixdi_1304698.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Pensiya və maaşların verilməsi ilə bağlı YENİLİK – Vətəndaşlar sevinəcək - Globalinfo.az",
-        "views": 12002,
-        "link": "https://globalinfo.az/pensiya-ve-maaslarin-verilmesi-ile-bagli-yenilik-vetendaslar-sevinecek/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "  Azərbaycanda bu şəxslərə cərimə yazmaq QADAĞANDIR  ",
-        "views": 11965,
+        "views": 11968,
         "link": "https://www.yenisabah.az/azerbaycanda-bu-sexslere-cerime-yazmaq-qadagandir",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
-        "title": "Gəncədə hava Bugün - Hava Day.Az",
-        "views": 11947,
-        "link": "https://weather.day.az/az/city/100586523/today.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "title": "Gəncədə hava Sabah - Hava Day.Az",
+        "views": 11968,
+        "link": "https://weather.day.az/az/city/100586523/tomorrow.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "DP məzunları dövlət qulluğuna müsabiqəsiz təyin ediləcəklər - Qanun təsdiqləndi",
+        "views": 11961,
+        "link": "https://muallim.edu.az/dp-mezunlari-dovlet-qulluguna-musabiqesiz-teyin-edilecekler-qanun-tesdiqlendi",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Yenidən Ombudsman seçilən Səbinə Əliyeva kimdir? - Dosye",
-        "views": 11941,
+        "views": 11950,
         "link": "https://metbuat.az/news/1566127/yeniden-ombudsman-secilen-sebine-eliyeva-kimdir.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "İran böhranı və Cənubi Qafqaz: Azərbaycanın təhlükəsizliyi  uğrunda görünməyən geosiyasi mübarizə",
-        "views": 11925,
+        "views": 11926,
         "link": "https://crossmedia.az/az/article/115678",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Prezidentlər və ailə üzvlərindən Şuşada xatirə - Fotoları",
-        "views": 11878,
+        "views": 11892,
         "link": "https://axsam.az/news/202260-prezidentler-ve-aile-uzvlerinden-susada-xatire-fotolari",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Пенсионеров ждут новые выплаты: на сколько могут вырасти пенсии в Азербайджане в 2027 году? Мнение",
-        "views": 11866,
+        "views": 11885,
         "link": "https://media.az/society/pensionerov-zhdut-novye-vyplaty-na-skolko-mogut-vyrasti-pensii-v-azerbajdzhane-v-2027-godu-mnenie",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Zeynəb Xanlarova uzun müddət sonra - Video+Fotolar",
+        "views": 11876,
+        "link": "https://axsam.az/news/202484-zeyneb-xanlarova-uzun-muddet-sonra-videofotolar",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Bu yaşda ət yemək ömrü uzadır",
-        "views": 11861,
+        "views": 11875,
         "link": "https://news.milli.az/health/1349814.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "ВНИМАНИЮ граждан: вводятся новые требования в связи с комби и плитами",
-        "views": 11847,
+        "views": 11852,
         "link": "https://baku.ws/ru/others/vnimaniyu-grazhdan-vvodyatsya-novye-trebovaniya-k-kombinirovannym-kotlam-i-plitam",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Bakıda məşhur xəstəxana bağlanır",
-        "views": 11841,
+        "views": 11847,
         "link": "https://olke.az/olke/487428/bakida-meshur-xestexana-balanir/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Azərbaycanlı qadının Türkiyədə çıxışı gündəm oldu — Video",
-        "views": 11798,
+        "views": 11806,
         "link": "https://qafqazinfo.az/news/detail/azerbaycanli-qadinin-turkiyede-cixisi-gundem-oldu-video-527121",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Kombi istifadə edənlərin NƏZƏRİNƏ  | Oxu24.com",
-        "views": 11766,
+        "views": 11768,
         "link": "https://oxu24.com/az/cemiyyet/176637/kombi-istifade-edenlerin-nezerine",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "  Azərbaycan məscidinə erməni şairin adı verildi  ",
-        "views": 11671,
+        "views": 11695,
         "link": "https://yenisabah.az/azerbaycan-mescidine-ermeni-sairin-adi-verildi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "APA.AZ - Hadisə xəbərləri",
+        "views": 11654,
+        "link": "https://apa.az/news/incident",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Qazaxda ağır qəza: Ölənlər var",
+        "views": 11641,
+        "link": "https://oxu.az/hadise/qazaxda-agir-qeza-olenler-var",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Yaxşı övlad doğma evinə qayıdar! - Almeyda Bakıdadır",
-        "views": 11570,
+        "views": 11576,
         "link": "https://qol.az/news/232887-yaxsi-ovlad-dogma-evine-qayidar-almeyda-bakidadir",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Azərbaycanda dəfn pulu artırılır - Yeni məbləğlər",
-        "views": 11558,
+        "views": 11559,
         "link": "https://oxu.az/iqtisadiyyat/azerbaycanda-defn-pulu-artirilir-yeni-meblegler",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Azərbaycandan və dünyadan xəbərlər - Qafqazinfo.az",
-        "views": 11543,
-        "link": "https://qafqazinfo.az/news?page=1",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Bu şəxslər 3600 manat maaş alacaq",
-        "views": 11529,
-        "link": "https://qafqazinfo.az/news/detail/bu-sexsler-3600-manat-maas-alacaq-527540",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "BakuPost",
-        "views": 11521,
-        "link": "https://www.bakupost.az/all",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "TƏBİB Polad Həşimovun anasının diaqnozunu açıqladı - YENİLƏNİB",
-        "views": 11509,
-        "link": "https://modern.az/az/aktual/851757/polad-hesimovun-anasinin-son-veziyyeti-aciqlandi-yenilenib/",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "İşdə məhəbbət macərası: DOST Agentliyinin müdir müavini buna görə işdən azad olunur",
-        "views": 11507,
+        "views": 11553,
         "link": "https://az.trend.az/azerbaijan/society/4246258.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Bu şəxslər 3600 manat maaş alacaq",
+        "views": 11539,
+        "link": "https://qafqazinfo.az/news/detail/bu-sexsler-3600-manat-maas-alacaq-527540",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "TƏBİB Polad Həşimovun anasının diaqnozunu açıqladı - YENİLƏNİB",
+        "views": 11512,
+        "link": "https://modern.az/az/aktual/851757/polad-hesimovun-anasinin-son-veziyyeti-aciqlandi-yenilenib/",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "26 milyon avroluq maaşdan imtina etdi",
-        "views": 11490,
+        "views": 11493,
         "link": "https://qol.az/news/233075-26-milyon-avroluq-maasdan-imtina-etdi",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Prezident təsdiqlədi: İş və istirahət saatları dəyişdirildi",
+        "views": 11456,
+        "link": "https://musavat.com/news/prezident-kommersiya-aviasiya-ekipajlarinin-is-ve-istirahet-rejiminin-tenzimlenmesini-tesdiqledi_1305248.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "Ərdoğana çağırış: 8 Noyabrda Bakıya gedərək...",
         "views": 11456,
         "link": "https://axar.az/news/gundem/1145098.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "На страницах Президента Ильхама Алиева в соцсетях размещена публикация по случаю 12 Ноября - Дня Конституции - ФОТО",
         "views": 11446,
         "link": "https://news.day.az/officialchronicle/1873637.html",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Ulduz falı: 19 noyabr, 2026-cı il",
+        "views": 11437,
+        "link": "https://bizimyol.info/aze/articles/2026/11/18/0213q8cl5g102al3sy.html",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
+    },
+    {
+        "title": "Oxu.Az - Son Xəbərlər, 24/7 Azərbaycan və Dünya xəbərləri",
+        "views": 11435,
+        "link": "https://oxu.az/page/6",
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     },
     {
         "title": "\"İndi də Namiq Qaraçuxurlu ilə duet oxumaram\"",
-        "views": 11420,
+        "views": 11424,
         "link": "https://axsam.az/news/202069-indi-de-namiq-qaracuxurlu-ile-duet-oxumaram",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "İsmayıllıda hava Həftəlik - Hava Day.Az",
-        "views": 11416,
-        "link": "https://weather.day.az/az/city/100586318/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Ən yaxşı valideyn olan 3 bürc",
-        "views": 11375,
-        "link": "https://metbuat.az/news/1566478/en-yaxsi-valideyn-olan-3-burc.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Bakıda torpaqların qiyməti kəskin dəyişdi - SƏBƏB",
-        "views": 11347,
-        "link": "https://www.bakupost.az/az/bakida-torpaqlarin-qiymeti-keskin-deyisdi-sebeb",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Nazir pensiya və sosiallarla bağlı RƏQƏMLƏRİ AÇIQLADI | Oxu24.com",
-        "views": 11343,
-        "link": "https://oxu24.com/az/cemiyyet/176418/nazir-pensiya-ve-sosiallarla-bagli-reqemleri-aciqladi",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Ulduz falı: 2 noyabr, 2026-cı il",
-        "views": 11322,
-        "link": "https://bizimyol.info/aze/articles/2026/11/01/5438tjdtos11hhgjye.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Yoxsulluqdan orqanlarını satırlar — Hətta 20-30 faiz endirimlə... - Fotolar",
-        "views": 11245,
-        "link": "https://qafqazinfo.az/news/detail/yoxsulluqdan-orqanlarini-satirlar-hetta-20-30-faiz-endirimle-fotolar-528486",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "ABŞ-də aralıq seçkilər: nəticələr, Tramp administrasiyasını gözləyən sınaqlar və Vaşinqtonda yeni siyasi mərhələ ",
-        "views": 11180,
-        "link": "https://crossmedia.az/az/article/115966",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Новости Азербайджана от Oxu.Az | Главные события Баку и мира",
-        "views": 11167,
-        "link": "https://oxu.az/ru/page/3",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Biləsuvarda hava Həftəlik - Hava Day.Az",
-        "views": 11165,
-        "link": "https://weather.day.az/az/city/100148340/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "2027-ci il nə ilidir? - Şərq təqvimi AÇIQLANDI",
-        "views": 11138,
-        "link": "https://sonxeber.az/409049/2027-ci-il-ne-ilidir-serq-teqvimi-aciqlandi",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Azərbaycanda 9 gün iş olmayacaq",
-        "views": 11133,
-        "link": "https://news.milli.az/society/1350707.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Zeynəb Xanlarova uzun müddət sonra - Video+Fotolar",
-        "views": 11111,
-        "link": "https://axsam.az/news/202484-zeyneb-xanlarova-uzun-muddet-sonra-videofotolar",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "İkinci əl avtomobil satanların nəzərinə: Qaydalar dəyişir",
-        "views": 11107,
-        "link": "https://oxu.az/cemiyyet/ikinci-el-avtomobil-satanlarin-nezerine-vergi-qaydalari-deyisir",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "  Xaricdə oxuyanlara yüksək vəzifə qadağası –  Yeni qərar",
-        "views": 11060,
-        "link": "https://www.yenisabah.az/xaricde-oxuyanlara-yuksek-vezife-qadagasi",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Yalçın Adıgözəlov: Niyazi məni evindən qovdu, dedim, mən də Zülfünün nəvəsiyəm - MÜSAHİBƏ ",
-        "views": 11052,
-        "link": "https://teleqraf.az/news/medeniyyet/572469.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "12 yaşlı uşaq qızıl külçəsi tapdı",
-        "views": 11044,
-        "link": "https://news.milli.az/world/1350470.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Salyanda hava Həftəlik - Hava Day.Az",
-        "views": 11004,
-        "link": "https://weather.day.az/az/city/100147271/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "10 milyonluq qızılla tutulan polkovnikin cəzası azaldıldı",
-        "views": 10977,
-        "link": "https://qafqazinfo.az/news/detail/10-milyonluq-qizilla-tutulan-polkovnikin-cezasi-azaldildi-528092",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Azərbaycanda dəhşətli hadisə: İki nəfər minaya düşdü",
-        "views": 10923,
-        "link": "https://oxu.az/cemiyyet/azerbaycanda-dehsetli-hadise-iki-nefer-minaya-dusdu",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Mühafizəçi nazirə sərt xəbərdarlıq etdi, gündəm oldu — Video",
-        "views": 10920,
-        "link": "https://qafqazinfo.az/news/detail/muhafizeci-nazire-sert-xeberdarliq-etdi-gundem-oldu-video-528216",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Ev dustaqlığına buraxılan Leyla Əhmədovanın yeni - Fotoları",
-        "views": 10918,
-        "link": "https://axsam.az/news/202071-ev-dustaqligina-buraxilan-leyla-ehmedovanin-yeni-fotolari",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Sinif müəllimi idi, işdən çıxıb milyarder oldu — Bir gündə 2,5 milyard qazandı",
-        "views": 10904,
-        "link": "https://qafqazinfo.az/news/detail/sinif-muellimi-idi-isden-cixib-bir-gunde-milyarder-oldu-serveti-25-milyarddir-527421",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Hava kəskin dəyişir: Güclü yağış, dolu, qar xəbərdarlığı",
-        "views": 10886,
-        "link": "https://oxu.az/cemiyyet/hava-keskin-deyisir-guclu-yagis-dolu-qar-xeberdarligi",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Qusarda hava Həftəlik - Hava Day.Az",
-        "views": 10886,
-        "link": "https://weather.day.az/az/city/100585220/week.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Ərdoğanın təyyarəsi Bakı səmasına daxil oldu - Görün nə etdi",
-        "views": 10880,
-        "link": "https://operativmm.az/az/post/erdoganin-teyyaresi-baki-semasina-daxil-oldu-gorun-ne-etdi/85216",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Bakıda yuxulu sürücü avtomobili ilə ana və körpəsinin üstündən keçdi - Anbaan video",
-        "views": 10853,
-        "link": "https://oxu.az/cemiyyet/bakida-yuxulu-surucu-ana-ve-korpesinin-ustunden-kecdi-anbaan-video",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Ərdoğanın Azərbaycana səfər proqramı açıqlandı - Foto",
-        "views": 10837,
-        "link": "https://oxu.az/siyaset/erdoganin-azerbaycana-sefer-proqrami-aciqlandi-foto",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Ərdoğanın sevdiyi mahnı Xankəndidə - Video",
-        "views": 10836,
-        "link": "https://axsam.az/news/202262-erdoganin-sevdiyi-mahni-xankendide-video",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Dambrauskas “Vikinq”ə məğlubiyyətin səbəblərini açıqladı",
-        "views": 10825,
-        "link": "https://qol.az/news/232886-dambrauskas-vikinqe-meglubiyyetin-sebeblerini-aciqladi",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Gəncədə korrupsiya əməliyyatı — Həbs olunan var",
-        "views": 10786,
-        "link": "https://qafqazinfo.az/news/detail/gencede-korrupsiya-emeliyyati-hebs-olunan-var-527135",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Son xəbərlər",
-        "views": 10760,
-        "link": "https://azpolitika.info/son-xeberler/",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Kriminal şəbəkənin rəhbəri Azərbaycanda tutuldu — Türkiyə mediası",
-        "views": 10760,
-        "link": "https://qafqazinfo.az/news/detail/kriminal-sebekenin-rehberi-azerbaycanda-tutuldu-turkiye-mediasi-528338",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Ulduz falı: 05 noyabr, 2026-cı il",
-        "views": 10736,
-        "link": "https://bizimyol.info/aze/articles/2026/11/04/0646y3zmzg11cn0vkb.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Dekabrda neçə gün iş olmayacaq?",
-        "views": 10699,
-        "link": "https://oxu.az/cemiyyet/dekabrda-nece-gun-is-olmayacaq",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Azərbaycanda bu dövlət qurumları LƏĞV EDİLDİ",
-        "views": 10698,
-        "link": "https://olke.az/iqtisadiyyat/486551/azerbaycanda-bu-dvlet-qurumlari-lev-edildi/",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Ulduz falı: 6 noyabr, 2026-cı il",
-        "views": 10666,
-        "link": "https://bizimyol.info/aze/articles/2026/11/05/2002tfu13010iw9ftu.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Bakının şimal girişində sıxlıq azaldacaq — Yeni yol tikilir",
-        "views": 10658,
-        "link": "https://qafqazinfo.az/news/detail/bakinin-simal-girisinde-sixliq-azaldacaq-yeni-yol-tikilir-528107",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Ərdoğanın Bakıya qəfil səfər qərarının səbəbi - General",
-        "views": 10657,
-        "link": "https://axar.az/news/gundem/1146180.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Gəncədə hava Sabah - Hava Day.Az",
-        "views": 10655,
-        "link": "https://weather.day.az/az/city/100586523/tomorrow.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Президент Ильхам Алиев принимает участие в пленарной сессии открытия 9-го cаммита Европейского политического сообщества",
-        "views": 10535,
-        "link": "https://news.day.az/officialchronicle/1873910.html",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "Xəbər lenti - Milli.Az",
-        "views": 10534,
-        "link": "https://news.milli.az/?ts=0&s=-454.140625",
-        "scraped_at": "2026-11-17 17:29:32"
-    },
-    {
-        "title": "3 yaşınadək uşağı olan bu analara hər ay — 100 manat veriləcək",
-        "views": 10522,
-        "link": "https://qafqazinfo.az/news/detail/3-yasinadek-usagi-olan-bu-analara-her-ay-100-manat-verilecek-527317",
-        "scraped_at": "2026-11-17 17:29:32"
+        "period": "month",
+        "nov": "səhifələr",
+        "scraped_at": "2026-11-20 17:24:32"
     }
 ]

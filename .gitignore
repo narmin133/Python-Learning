@@ -2,3 +2,6 @@ report_az_scraper/output/
 __pycache__/
 *.db
 *.log
+.env
+metrix_az/config.py
+config.py
